@@ -170,7 +170,7 @@ header {
   background-color: black;
 }
 
-.navbar-expand-md .navbar-collapse {
+#navbarNavDropdown.collapse:not(.show) {
   display: none !important;
 }
 
