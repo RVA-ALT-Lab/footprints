@@ -29,7 +29,6 @@
 
 
 <div class="allofit">
-  <img src="<?php echo get_stylesheet_directory_uri();?>/imgs/hamburger_menu.svg" class="menu-burger">
   <div class="fotj-container">
     <img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14245638069_5130506d87_o.jpg" class="cover-image" width="100%" height="100%">
     <div class="foot-title">FOOTPRINTS ON THE JAMES</div>

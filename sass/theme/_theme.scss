@@ -3,9 +3,9 @@
 
 // @import "compass/css3";
 
-#wrapper-navbar {
-  display: none;
-}
+// #wrapper-navbar {
+//   display: none;
+// }
 
 // #wpadminbar {
 //   display: none;
@@ -65,15 +65,15 @@ header {
 .cover-image {
   object-fit: cover;
   width: 100%;
-  height: 100vh;
+  height: calc(100vh - 95px);
 }
-.menu-burger {
-  position: fixed;
-  top: 10px;
-  left: 10px;
-  z-index: 3;
-  background-image: url("");
-}
+// .menu-burger {
+//   position: fixed;
+//   top: 10px;
+//   left: 10px;
+//   z-index: 3;
+//   background-image: url("");
+// }
 
 .foot-title {
   font-family: Kameron;
@@ -145,9 +145,37 @@ header {
   margin: -55px 40px;
 }
 
+.navbar-toggler:not(:disabled):not(.disabled) {
+  display: block;
+}
 
-@media (min-width: 576px) {
-  
+.navbar {
+  position: fixed;
+  top: 95px;
+  z-index: 3000;
+  left: -20px;
+}
+
+.navbar-toggler {
+  border: 0;
+}
+
+.navbar-dark .navbar-toggler-icon {
+  background-image: url("../imgs/hamburger_menu.svg")
+}
+
+.navbar-nav .nav-link {
+  padding-right: 0;
+  padding-left: 10px;
+  background-color: black;
+}
+
+.navbar-expand-md .navbar-collapse {
+  display: none !important;
+}
+
+.bg-primary {
+  background-color: transparent !important;
 }
 
 // //aligns menu items to the right
