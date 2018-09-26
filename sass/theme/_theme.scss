@@ -1,0 +1,378 @@
+// // This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
+// //************************NAVBAR TWEEKS************************
+
+// @import "compass/css3";
+
+#wrapper-navbar {
+  display: none;
+}
+
+// #wpadminbar {
+//   display: none;
+// }
+
+.allofit {
+  padding-top: -60px;
+}
+
+html, body {
+  height: 100%;
+  min-height: 100%;
+  line-height: 2em;
+  // font-family: EB Garamond;
+  font-family: Scope One;
+  font-size: 1.1em;
+}
+
+
+.logo-abbr {
+  font-family: Kameron;
+  font-weight: 700;
+  font-size: 2em;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.logo-line {
+  // background-repeat: no-repeat;
+  text-align: center;
+}
+
+header {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 100px;
+  background: black;
+  z-index: -1;
+  width: 15%;
+  
+  &.fixed {
+    position: fixed;
+    display: none;
+  }
+}
+
+.fotj-container {
+  position: relative;
+  text-align: center;
+  color: white;
+  top: 0;
+}
+
+.cover-image {
+  object-fit: cover;
+  width: 100%;
+  height: 100vh;
+}
+.menu-burger {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  z-index: 3;
+  background-image: url("");
+}
+
+.foot-title {
+  font-family: Kameron;
+  font-weight: 700;
+  font-size: 2em;
+  padding: 20px 0 20px 0;
+  color: white;
+  position: absolute;
+  top: 55%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-image: url("../imgs/title_footpath2.svg");
+  background-repeat: repeat-x;
+  width: 100%;
+}
+
+.sub-title {
+  font-family: Nunito Sans;
+  font-weight: 300;
+  font-size: 1em;
+  line-height: 1.3em;
+  padding: 30px 0 20px 0;
+  color: white;
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-image: url("../imgs/threelinewave.svg");
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+.fotj-content {
+  padding: 40px 15%;
+  margin: 50px auto;
+  color: black;
+  text-align: left;
+  
+  p {
+    margin-bottom: 1em;
+    margin-top: 1em;
+    
+    .drop-cap {
+      font-family: Rockwell;
+      font-weight: 700;
+      float: left;
+      display: inline-block;
+      padding-top: 3.2rem;
+      margin-right: .625rem;
+      text-transform: uppercase;
+      vertical-align: text-top;
+      font-size: 7rem;
+      height: .9em;
+      line-height: 3rem;
+      background-image: url("../imgs/tiny_threelinewave.svg");
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+  }
+}
+
+.wide-image {
+  margin: -50px 0 -50px 0;
+}
+
+.vert-path {
+  background-image: url("../imgs/vert_path.svg");
+  background-repeat: repeat-y;
+  margin: -55px 40px;
+}
+
+
+@media (min-width: 576px) {
+  
+}
+
+// //aligns menu items to the right
+// .assistive-text {
+//   height: 1px; 
+//   width: 1px; 
+//   position: absolute; 
+//   overflow: hidden; 
+//   top: -10px;
+// }
+
+
+// #navbarNavDropdown {
+//   justify-content: flex-end;
+// }
+
+// //gets rid of round edges on child menu elements
+// .dropdown-menu {
+// 	border-radius: 0;
+// }
+
+// //force underline on sub-menu hover
+// .dropdown-item:focus, .dropdown-item:hover {
+// 	text-decoration: underline;
+// }
+
+// //prevent default fade to non-accessible on pages that are not the active page
+// .navbar-dark .navbar-nav .nav-link {
+//   color: $dark-gray;
+// }
+
+// #the-menu {
+// 	background-color: #efefef !important;
+// }
+
+// li.active {
+// 	text-decoration: underline;
+// 	color: $dark-gray;
+// }
+
+// .sticky {
+//   position: fixed;
+//   top: 0;
+//   width: 100%;
+//   z-index: 100;
+// }
+
+
+// //************************BASIC CONTENT CHOICES************************
+// article a {
+// 	text-decoration: underline;
+// }
+
+// body, p, h1, h2, h3, h4, h5 {
+// 	font-family: 'Roboto', sans-serif;
+// }
+
+// #secondary img, article img, figure, img, img.wp-post-image {
+// 	margin-bottom: 1em;
+// }
+
+// p {
+// 	background-color: $white;
+// 	padding: 1em .4em;
+// }
+
+// .table {
+// 	background-color: $white;
+// }
+
+// .jumbotron {
+// 	border-radius: 0;
+// }
+
+// .custom-header-img {
+// 	height: 40vw;
+// 	background-position: center;
+// 	background-repeat: no-repeat;
+// 	background-size: cover;
+// }
+
+// //BACKGROUND
+// #full-width-page-wrapper {
+// 	background-image: url(../imgs/topo-right-30.png);
+// 	background-repeat: no-repeat;
+// 	background-position: right;
+// 	background-size: 400px 800px;
+// 	background-attachment: fixed;
+// }
+
+
+// //SUB ORGS
+// .jumbotron.water {
+//   background: url(../imgs/topographic-background-2-white.svg), linear-gradient(rgba(0, 179, 190, 0), rgba(158, 158, 158, 1));
+//   background-repeat: no-repeat; 
+//   background-size: cover; 
+//   background-color: rgba(0,0,0,0);
+// }
+
+// .water .card-img-top {
+// 	border-radius: 50%;
+// 	border: 2px solid $white;
+// 	width: 80%;
+// 	height: auto;
+// 	margin: 0 auto;
+// }
+
+// .water .card-title {
+// 	background-color: $white;
+// 	padding: .2em;
+// 	display: inline-block;
+// 	text-align: center;
+// 	font-size: 1.5em;
+// 	height: 3em;
+// 	width: 100%;
+// 	margin: 0 auto;
+// }
+
+// .water .card {
+// 	height: 100%;
+// 	background-color: rgba(0,0,0,0);
+// 	border: none;
+// }
+
+// //FOOTER 
+// #wrapper-footer {
+// 	padding-top: 5em;
+// 	background-color: $dark-gray;	
+// }
+
+// .footer-widget{
+// 	background-color: $dark-gray;
+// 	padding-top: 3em;
+// 	color: $white;
+// 	line-height: 1em;
+// }
+
+// .widgetizedArea p {
+// 	background-color: $dark-gray;
+// 	color: $white;
+// 	padding: .2em 0;
+// 	margin: 0;
+// }
+
+// .widgetizedArea h3 {
+// 	color: $gold;
+// 	font-size: 1.2em;
+// }
+
+// //JUST BLOCKQUOTE
+// //from https://codepen.io/iPawan/pen/emrPKP
+// blockquote{
+//   display:block;
+//   background: #fff;
+//   padding: 15px 20px 15px 45px;
+//   margin: 0 0 20px;
+//   position: relative;
+  
+//   /*Font*/
+//   font-size: 1.2em;
+//   line-height: 1.2;
+//   color: #666;
+
+
+//   /*Borders - (Optional)*/
+//   border-left-style: solid;
+//   border-left-width: 15px;
+//   border-right-style: solid;
+//   border-right-width: 2px;    
+// }
+
+// blockquote::before{
+//   content: "\201C"; /*Unicode for Left Double Quote*/
+  
+//   /*Font*/
+//   font-family: Georgia, serif;
+//   font-size: 60px;
+//   font-weight: bold;
+//   color: #999;
+  
+//   /*Positioning*/
+//   position: absolute;
+//   left: 10px;
+//   top:5px; 
+// }
+
+// blockquote::after{
+//   /*Reset to make sure*/
+//   content: "";
+// }
+
+// blockquote a{
+//   text-decoration: none;
+//   background: #eee;
+//   cursor: pointer;
+//   padding: 0 3px;
+//   color: #c76c0c;
+// }
+
+// blockquote a:hover{
+//  color: #666;
+// }
+
+// blockquote em{
+//   font-style: italic;
+// }
+
+//   /*Default Color Palette*/
+// blockquote.default{ 
+//   border-left-color: #656d77;
+//   border-right-color: #434a53;  
+// }
+
+
+// //BOOTSTRAP BREAKOUT
+
+// .break-out{
+//   width: 100vw;
+//   position: relative;
+//   left: calc(-1 * (100vw - 100%) / 2);
+//   color: rgba(0,0,0,.6);
+//   display: block;
+// }
+
+// .flexy {
+//   display: flex;
+//   justify-content: space-between;
+// }
