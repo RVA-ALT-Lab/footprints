@@ -153,7 +153,7 @@ header {
   position: fixed;
   top: 95px;
   z-index: 3000;
-  left: -20px;
+  left: -25px;
 }
 
 .navbar-toggler {
@@ -166,7 +166,7 @@ header {
 
 .navbar-nav .nav-link {
   padding-right: 0;
-  padding-left: 10px;
+  padding-left: 20px;
   background-color: black;
 }
 
@@ -174,8 +174,30 @@ header {
   display: none !important;
 }
 
+.navbar-expand-md>.container, .navbar-expand-md>.container-fluid {
+  -ms-flex-wrap: wrap !important;
+  flex-wrap: wrap !important;
+}
+
+.navbar-collapse {
+  flex-basis: 100% !important;
+}
+
+.navbar-nav {
+  flex-direction: column !important;
+}
+
 .bg-primary {
   background-color: transparent !important;
+}
+
+.sticky .navbar {
+  top: 0;
+  transition: all .5s;
+    -wenkit-transition: all .5s;
+    -moz-transition: all .5s;
+    -o-transition: all .5s;
+    -ms-transition: all .5s;
 }
 
 // //aligns menu items to the right
@@ -214,13 +236,6 @@ header {
 // li.active {
 // 	text-decoration: underline;
 // 	color: $dark-gray;
-// }
-
-// .sticky {
-//   position: fixed;
-//   top: 0;
-//   width: 100%;
-//   z-index: 100;
 // }
 
 
