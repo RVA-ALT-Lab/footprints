@@ -28,9 +28,9 @@ function myFunction() {
     $(window).scroll(function() {
         if ($(window).scrollTop() > $(window).height()) {
         header.addClass("fixed");
-        header.slideDown(200);
+        header.slideDown("fast");
         } else {
-        header.slideUp(200, function() {
+        header.slideUp("fast", function() {
             header.removeClass("fixed");
         });
         }
