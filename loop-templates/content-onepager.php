@@ -16,10 +16,12 @@
 
 	<div class="allofit">
 		<div class="fotj-container">
-			<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/covers/14245638069_5130506d87_o.jpg" class="cover-image" width="100%" height="100%">
+			<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/covers/14245638069_5130506d87_o.jpg" class="cover-image">
+			<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/covers/dsc_0081.jpg" class="cover-image">
+			<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/covers/14245515998_9954e288c3_k.jpg" class="cover-image">
 				<div class="foot-title">FOOTPRINTS ON THE JAMES</div>
-				<div class="sub-title">The Natural and Human History of the James River Watershed</div>
 		</div>
+		<div class="sub-title">The Natural and Human History of the James River Watershed</div>
 		<div class="vert-path">
 			<div class="fotj-content">
 				<h2 class="fotj-titles">About this Course</h2>

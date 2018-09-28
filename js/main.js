@@ -19,17 +19,21 @@ function myFunction() {
 }
 
 //GET NEW PICS ON COVER PAGE
-// $(function() {
-//     "use strict";
-//     !function(s, e) {
-//         var o = 1;
-//         window.setInterval(function() {
-//             $("body").removeClass("cover-image" + o),
-//             o++,
-//             $("body").addClass("cover-image" + o),
-//             o > e && (o = 1)
-//         }, s)
-//     }(8e3, 4);
+var slideIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("cover-image");
+    for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none"; 
+    }
+    slideIndex++;
+    if (slideIndex > x.length) {slideIndex = 1} 
+    x[slideIndex-1].style.display = "block"; 
+    setTimeout(carousel, 10000); // Change image every 10 seconds
+}
+
 
 
 /* SHOWING THE FOTJ MENU AFTER THE FOLD */

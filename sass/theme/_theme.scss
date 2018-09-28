@@ -72,6 +72,15 @@ header {
   animation: scaling 10s linear 0s infinite;
 }
 
+.fotj-container::after {
+   content: '';
+   position: absolute;
+   top: 0; left: 0; bottom: 0; right: 0;
+  //  background: radial-gradient(circle, transparent 20%, black 150%);
+   background: radial-gradient(transparent 60%, black 150%);
+  //  mix-blend-mode: color;
+}
+
 @-webkit-keyframes scaling {
   0% {
       opacity: 0.1;
@@ -121,6 +130,7 @@ header {
   background-image: url("../imgs/title_footpath2.svg");
   background-repeat: repeat-x;
   width: 100%;
+  text-shadow: 0px 0px 4px #000000;
 }
 
 .sub-title {
@@ -137,6 +147,7 @@ header {
   background-image: url("../imgs/threelinewave.svg");
   background-repeat: no-repeat;
   background-position: top;
+  text-shadow: 0px 0px 14px #000000;
 }
 
 .fotj-content {
@@ -156,6 +167,7 @@ header {
     .drop-cap {
       font-family: Rockwell;
       font-weight: 700;
+      color: green;
       float: left;
       display: inline-block;
       padding-top: 3.2rem;
