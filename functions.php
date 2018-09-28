@@ -149,3 +149,7 @@ function bannerMaker(){
 
     } 
 }
+
+// hide the WP admin menu bar universally, until a user logs in
+
+add_filter('show_admin_bar', '__return_false');
