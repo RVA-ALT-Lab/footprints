@@ -11,19 +11,22 @@
 //   display: none;
 // }
 
-.allofit {
-  padding-top: -60px;
-}
-
 html, body {
   height: 100%;
   min-height: 100%;
-  line-height: 2em;
+  line-height: 1.8em;
   // font-family: EB Garamond;
   font-family: Scope One;
   font-size: 1.1em;
 }
 
+article a {
+  text-decoration: underline;
+}
+
+.allofit {
+  padding-top: -60px;
+}
 
 .logo-abbr {
   font-family: Kameron;
@@ -62,6 +65,18 @@ header {
   top: 0;
   overflow: hidden;
   background-color: black;
+}
+
+.scroll-to-content-arrow {
+  // content: '';
+  // background-image: url("../imgs/arrow-down-white.svg");
+  // background-repeat: no-repeat;
+  // background-size: cover;
+  bottom: 30px;
+  height: 27px;
+  left: 27px;
+  position: absolute;
+  width: 21px;
 }
 
 .cover-image {
@@ -161,6 +176,11 @@ header {
     font-family: Rockwell;
     font-weight: 700;
   }
+
+  .lead-title {
+    padding-top: 50px;
+  }
+
   p {
     margin-bottom: 1em;
     margin-top: 1em;
@@ -175,9 +195,9 @@ header {
       margin-right: .625rem;
       text-transform: uppercase;
       vertical-align: text-top;
-      font-size: 7rem;
-      height: .9em;
-      line-height: 3rem;
+      font-size: 6.2rem;
+      height: .8em;
+      line-height: 1.6rem;
       background-image: url("../imgs/tiny_threelinewave.svg");
       background-repeat: no-repeat;
       background-position: center;
@@ -185,8 +205,57 @@ header {
   }
 }
 
+.photo-set {
+  display: flex;
+  margin-left: -5px;
+  margin-right: -5px;
+  margin-bottom: -45px;
+  margin-top: -50px;
+}
+
+.photo-set {
+  display: flex;
+  margin-left: -5px;
+  margin-right: -5px;
+  margin-bottom: -45px;
+  margin-top: -50px;
+}
+
+.photo-set .photo-2 {
+  position: relative;
+  overflow: hidden;
+  width: auto;
+  height: 360px;
+  margin: 5px;
+}
+
+.photo-set .photo-3 {
+  position: relative;
+  overflow: hidden;
+  width: auto;
+  height: 260px;
+  margin: 5px;
+}
+
+// .photo-group .photo:hover {
+//   opacity: 0.5;
+// }
+
+.photo-caption {
+  padding: 10px 1rem;
+}
+
+.photo-caption h5 {
+  position: relative;
+  font-size: 16px;
+  font-family: "EB Garamond", serif;
+  font-weight: normal;
+  font-style: italic;
+  text-align: center;
+}
+
 .wide-image {
-  margin: -50px 0 -50px 0;
+  margin: -50px 0 0 0;
 }
 
 .vert-path {
@@ -211,7 +280,7 @@ header {
 }
 
 .navbar-dark .navbar-toggler-icon {
-  background-image: url("../imgs/hamburger_menu.svg")
+  background-image: url("../imgs/hamburger_menu.svg");
 }
 
 .navbar-nav .nav-link {
@@ -241,6 +310,15 @@ header {
   background-color: transparent !important;
 }
 
+.wave-break {
+  content: '';
+  background-image: url("../imgs/gray_threelinewave.svg");
+  background-repeat: repeat-x;
+  background-position: center;
+  height: 50px;
+  margin: 20px 0 70px 0;
+}
+
 .sticky .navbar {
   top: 0;
   transition: all .5s;
@@ -253,6 +331,10 @@ header {
 
 //@MEDIA STUFF
 @media (max-width: 768px) {
+  body, html {
+    font-size: 1em;
+    line-height: 1.6em;
+  }
   .logo-abbr {
     font-size: 1.1em;
     padding: 12px 0 0 40px;
@@ -267,15 +349,22 @@ header {
     top: 90%;
     width: 80%;
   }
+  .scroll-to-content-arrow {
+    display: none;
+  }
   .vert-path {
     margin: -55px 5px;
   }
   .fotj-content {
     padding: 40px 2% 40px 15%;
+    margin: 5px;
   }
-  body, html {
-    font-size: 1em;
-    line-height: 1.8em;
+  .fotj-content .lead-title {
+    padding-top: 25px; 
+  }
+  .photo-group {
+    display: block;
+    padding: 40px 2% 5px 15%;
   }
 }
 
@@ -319,9 +408,7 @@ header {
 
 
 // //************************BASIC CONTENT CHOICES************************
-// article a {
-// 	text-decoration: underline;
-// }
+
 
 // body, p, h1, h2, h3, h4, h5 {
 // 	font-family: 'Roboto', sans-serif;
