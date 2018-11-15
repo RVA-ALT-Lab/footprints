@@ -27,9 +27,9 @@
 		</div>
 		<div class="vert-path">
 			<div class="fotj-content">
-				<h2 class="lead-title" id="homepage-content">About this Course</h2>
+				<h2 class="lead-title" id="homepage-content">The Story of this Course</h2>
 				<p>
-					<span class="drop-cap">T</span>he principal goal for this class is to expose the students to the importance of the James River watershed to the residents of Virginia in the present, past and future. This collaborative, experiential learning opportunity will combine faculty from the <a href="https://biology.vcu.edu/">Biology Department</a>, the <a href="https://ces.vcu.edu/">Center for Environmental Studies</a> and the <a href="https://recsports.vcu.edu/programs/outdoor-adventure-program/">Outdoor Adventure Program</a>. By immersing students in a natural landscape prominent in Virginia’s history for four weeks, backpacking and canoeing through the watershed and down the river, this program represents a unique opportunity for students at VCU to learn about human history, natural history and how the two have shaped each other &#x1F463;&#x1F43E;.
+					<span class="drop-cap">T</span>he principal idea behind this class is to expose the students to the importance of the James River watershed to the residents of Virginia in the present, past and future. This collaborative, experiential learning opportunity will combine faculty from the <a href="https://biology.vcu.edu/">Biology Department</a>, the <a href="https://ces.vcu.edu/">Center for Environmental Studies</a> and the <a href="https://recsports.vcu.edu/programs/outdoor-adventure-program/">Outdoor Adventure Program</a>. By immersing students in a natural landscape prominent in Virginia’s history for four weeks, backpacking and canoeing through the watershed and down the river, this program represents a unique opportunity for students at VCU to learn about human history, natural history and how the two have shaped each other &#x1F463;&#x1F43E;.
 				</p>
 				<div>
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14245723867_87e09d7b80_sized.jpg" width="100%">
@@ -87,13 +87,13 @@
 					<span class="drop-cap">A</span>ll participants will be living, travelling and learning in variety of camping locations in close proximity to the James River and its watershed. From the first night out &#x1F30C;, everyone will be living out of a backpacking tent and eating meals prepared by our classmates. After the first week, most of your nights will be spent in a different place from the evening before. While there will be a few opportunities for a night back in Richmond, we will spend ~28 days and nights in the field.
 				</p>
 				<div>
-					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14465508798_2643e7b259_sized.jpg" width="100%">
+					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14465508798_2643e7b259_sized.jpg" width="100%" style="">
 				</div>
 				<div class="photo-caption">
 					<h5>This is a caption for this photo. Isn't it nice?</h5>
 				</div>
 				<p>
-					Showers, grid electricity and refrigeration will be infrequent if not absent. The class will take place during the early summer in Virginia; students will have ample opportunity to consider mosquitos &#x1F99F;, heat, sunburn, ticks, chafing, and body odor &#x1F9DF;. To accommodate this, the day to day operations of this trip will be largely the responsibility of the student participants. This will require both self discipline and cooperation among our members.
+					Showers, grid electricity and refrigeration will be infrequent if not absent. The class will take place during the early summer in Virginia; students will have ample opportunity to consider mosquitos, heat, sunburn, ticks, chafing, and body odor &#x1F9DF;. To accommodate this, the day to day operations of this trip will be largely the responsibility of the student participants. This will require both self discipline and cooperation among our members.
 				</p>	
 			</div>
 			<div class="photo-set">

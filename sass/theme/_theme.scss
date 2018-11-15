@@ -16,7 +16,7 @@ html, body {
   min-height: 100%;
   line-height: 1.8em;
   // font-family: EB Garamond;
-  font-family: Scope One;
+  font-family: Lora, serif;
   font-size: 1.1em;
 }
 
@@ -29,10 +29,10 @@ article a {
 }
 
 .logo-abbr {
-  font-family: Kameron;
+  font-family: Fjalla one, sans-serif;
   font-weight: 700;
   font-size: 3vw;
-  padding: 12px 0 0 30px;
+  padding: 15px 0 0 30px;
   color: white;
   text-align: center;
 }
@@ -133,9 +133,9 @@ header {
 }
 
 .foot-title {
-  font-family: Kameron;
+  font-family: Fjalla one, sans-serif;
   font-weight: 700;
-  font-size: 2em;
+  font-size: 4em;
   padding: 20px 0 20px 0;
   color: white;
   position: absolute;
@@ -145,11 +145,11 @@ header {
   background-image: url("../imgs/title_footpath2.svg");
   background-repeat: repeat-x;
   width: 100%;
-  text-shadow: 0px 0px 4px #000000;
+  text-shadow: -1px -1px 0 #6c757d, 1px -1px 0 #6c757d, -1px 1px 0 #6c757d, 1px 1px 0 #6c757d;
 }
 
 .sub-title {
-  font-family: Nunito Sans;
+  font-family: Nunito Sans, sans-serif;
   font-weight: 300;
   font-size: 1em;
   line-height: 1.3em;
@@ -173,8 +173,9 @@ header {
   text-align: left;
   
   h2 {
-    font-family: Rockwell;
+    font-family: Fjalla one, sans-serif;
     font-weight: 700;
+    font-size: 3rem;
   }
 
   .lead-title {
@@ -186,12 +187,12 @@ header {
     margin-top: 1em;
     
     .drop-cap {
-      font-family: Rockwell;
-      font-weight: 700;
+      font-family: Fjalla one, sans-serif;
+      font-weight: 300;
       color:#212529;
       float: left;
-      display: inline-block;
-      padding-top: 3.2rem;
+      // display: inline-block;
+      padding-top: 2.5rem;
       margin-right: .625rem;
       text-transform: uppercase;
       vertical-align: text-top;
@@ -213,20 +214,20 @@ header {
   margin-top: -50px;
 }
 
-.photo-set {
-  display: flex;
-  margin-left: -5px;
-  margin-right: -5px;
-  margin-bottom: -45px;
-  margin-top: -50px;
-}
-
 .photo-set .photo-2 {
   position: relative;
   overflow: hidden;
   width: auto;
   height: 360px;
   margin: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+}
+
+.photo-set .photo-2 img {
+  max-height: 360px;
 }
 
 .photo-set .photo-3 {
@@ -235,6 +236,14 @@ header {
   width: auto;
   height: 260px;
   margin: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+}
+
+.photo-set .photo-3 img {
+  max-height: 260px;
 }
 
 // .photo-group .photo:hover {
@@ -300,6 +309,7 @@ header {
 
 .navbar-collapse {
   flex-basis: 100% !important;
+  font-family: Fjalla one, sans-serif;
 }
 
 .navbar-nav {
@@ -336,7 +346,7 @@ header {
     line-height: 1.6em;
   }
   .logo-abbr {
-    font-size: 1.1em;
+    font-size: 1.3em;
     padding: 12px 0 0 40px;
     width: 1px;
     word-wrap: break-word;
@@ -344,6 +354,9 @@ header {
   }
   .navbar-toggler-icon {
     margin-bottom: 48px;
+  }
+  .foot-title {
+    line-height: 1.1em;
   }
   .sub-title {
     top: 90%;
@@ -362,7 +375,7 @@ header {
   .fotj-content .lead-title {
     padding-top: 25px; 
   }
-  .photo-group {
+  .photo-set {
     display: block;
     padding: 40px 2% 5px 15%;
   }
