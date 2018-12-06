@@ -29,7 +29,7 @@
 			<div class="fotj-content">
 				<h2 class="lead-title" id="homepage-content">The Story of this Course</h2>
 				<p>
-					<span class="drop-cap">T</span>he principal idea behind this class is to expose the students to the importance of the James River watershed to the residents of Virginia in the present, past and future. This collaborative, experiential learning opportunity will combine faculty from the <a href="https://biology.vcu.edu/">Biology Department</a>, the <a href="https://ces.vcu.edu/">Center for Environmental Studies</a> and the <a href="https://recsports.vcu.edu/programs/outdoor-adventure-program/">Outdoor Adventure Program</a>. By immersing students in a natural landscape prominent in Virginia’s history for four weeks, backpacking and canoeing through the watershed and down the river, this program represents a unique opportunity for students at VCU to learn about human history, natural history and how the two have shaped each other &#x1F463;&#x1F43E;.
+					<span class="drop-cap">T</span>he principal idea behind this class is to expose the students to the importance of the James River watershed to the residents of Virginia in the present, past and future. This collaborative, experiential learning opportunity will combine faculty from the Department of <a href="https://biology.vcu.edu/">Biology</a>, the <a href="https://ces.vcu.edu/">Center for Environmental Studies</a> and the <a href="https://recsports.vcu.edu/programs/outdoor-adventure-program/">Outdoor Adventure Program</a>. By immersing students in a natural landscape prominent in Virginia’s history for three weeks, kayaking and canoeing down the James River, this program represents a unique opportunity for students at VCU to learn about human history, natural history and how the two have shaped each other &#x1F463;&#x1F43E;.
 				</p>
 				<div>
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14245723867_87e09d7b80_sized.jpg" width="100%">
@@ -38,13 +38,16 @@
 					<h5>This is a caption for this photo. Isn't it nice?</h5>
 				</div>
 				<p>
-					<a href="#homepage-goals">Goals</a> for each student will be to learn more about the specific features that make up this river system by identifying and stimulating individual ownership of particular issues of interest to each student before and during the class.
+					This expedition will be a collaborative field experience early in the summer of 2019. It will begin with a prep day on campus and several days of paddling down the river from the current capital in Richmond towards the colonial capital at Jamestown. The class will spend a few days in between these at the <a href="https://ricerivers.vcu.edu/">VCU Rice Rivers Center</a> on the James River in Charles City County, VA. The class will spend their time here with a series of topical seminars and skill development classes to help them build their knowledge. After this the class will continue to investigate the lower James by paddling to the colonial capital at Jamestown before returning to Richmond for a night. The next day the class will drive to the upper James River near the Blue Ridge Mountains &#x1F304; and proceed by canoe and batteau through the watershed back down the river to Richmond.
+				</p>
+				<p>
+					The goal for each student will be to learn more about the specific features that make up this river system by immersing themselves in the landscape. Each student will be tasked with identifying a particular issue of interest before the expedition portion of the class. By stimulating individual ownership of this issue,___
 				</p>
 				<p>	
-					In addition, students will learn and practice advanced camping, canoeing/kayaking, and outdoor living skills, including <a href="https://lnt.org/learn/7-principles">Leave No Trace camping</a> &#x1F3D5;. Students will also learn to function as team members, and will be instructed in expedition management, group dynamics, and leadership skills &#x1F44D;.
+					In addition, students will learn and practice advanced camping, canoeing/kayaking, and outdoor living skills, including <a href="https://lnt.org/learn/7-principles">Leave No Trace theory</a> &#x1F3D5;. Students will also learn to function as team members, and will be instructed in expedition management, group dynamics, and leadership skills &#x1F4E3;.
 				</p>
 				<div>
-					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/dsc_0283_sized.jpg" width="100%">
+					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P5270719.jpg" width="100%">
 				</div>
 				<div class="photo-caption">
 					<h5>This is a caption for this photo. Isn't it nice?</h5>
@@ -59,35 +62,36 @@
 			<div class="fotj-content">
 				<h2>Field lessons on the James River</h2>
 				<p>
-					<span class="drop-cap">T</span>his expedition will be a collaborative field experience between the units indicated above, taking place over five weeks in the summer of 2019. It will begin with a series of topical seminars and skill development classes at the <a href="https://ricerivers.vcu.edu/">VCU Rice Rivers Center</a> on the James River in Charles City County, VA. The class will continue to investigate the lower James by paddling to the colonial capital at Jamestown. The class will drive to the headwaters of the James River near the Blue Ridge Mountains &#x1F304; and proceed by foot, canoe, bateau and kayak through the watershed and down the river back to Richmond.
+					<span class="drop-cap">T</span>he class course work will be presented in several formats. First, there will be ample opportunity for primary experiential education experiences. Second, there will be a few presentations from faculty and topical experts&#x1F984; throughout the course. Third will be peer to peer___
 				</p> 
 			</div>
-			<div class="photo-set">
-				<div class="photo-3">
-					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14711563705_a7827a5323_sized.jpg" width="auto">
+			<div class="grid-container-3">
+				<div>
+					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14711563705_a7827a5323_sized.jpg">
 				</div>
-				<div class="photo-3">
-					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14648864061_1533010002_sized.jpg" width="auto">
+				<div>
+					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14452301543_1337ad98b5_sized.jpg">
 				</div>
-				<div class="photo-3">
-					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14452301543_1337ad98b5_sized.jpg" width="auto">
+				<div>
+					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P5291002.jpg">
 				</div>
 			</div>
-			<div class="fotj-content">
-				<p>	
-					During this journey the students will be engaged with a wide variety of hands-on interactions in the three disciplines, guided by faculty from each department and guest experts&#x1F984;. The Outdoor Adventure Program will be providing trained students from their Student Outdoor Leader Program as program guides to teach a wide variety of practical outdoors skills and to introduce traditional expedition management and outdoor leadership techniques. The students will be camping in tents each night and managing their own daily affairs. Responsibility for daily activities such as group leadership, cooking, navigation, setting up camp and managing social media will be assigned as daily duties on rotation &#x1F4E3;.
-				</p>
+			<div class="grid-container-2">
+				<div>
+					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P5291174.jpg">
+				</div>
+				<div>
+					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P6040229.jpg">
+				</div>
 			</div>
-			<div>
-				<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14504828146_e63e7a356f_sized.jpg" class="wide-image" width="100%" height="auto">
-			</div>
+
 			<div class="fotj-content">
 				<h2>Trip Life</h2>
 				<p>
-					<span class="drop-cap">A</span>ll participants will be living, travelling and learning in variety of camping locations in close proximity to the James River and its watershed. From the first night out &#x1F30C;, everyone will be living out of a backpacking tent and eating meals prepared by our classmates. After the first week, most of your nights will be spent in a different place from the evening before. While there will be a few opportunities for a night back in Richmond, we will spend ~28 days and nights in the field.
+					<span class="drop-cap">A</span>ll participants will be living, travelling and learning in variety of camping locations in close proximity to the James River and its watershed. From the first night out &#x1F30C;, everyone will be living out of a backpacking tent and eating meals prepared by our classmates. After the first week, most of your nights will be spent in a different place from the evening before. While there will be a few opportunities for a night back in Richmond, we will spend ~19 days and nights in the field.
 				</p>
 				<div>
-					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14465508798_2643e7b259_sized.jpg" width="100%" style="">
+					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P5311511.jpg" width="100%" style="">
 				</div>
 				<div class="photo-caption">
 					<h5>This is a caption for this photo. Isn't it nice?</h5>
@@ -96,19 +100,26 @@
 					Showers, grid electricity and refrigeration will be infrequent if not absent. The class will take place during the early summer in Virginia; students will have ample opportunity to consider mosquitos, heat, sunburn, ticks, chafing, and body odor &#x1F9DF;. To accommodate this, the day to day operations of this trip will be largely the responsibility of the student participants. This will require both self discipline and cooperation among our members.
 				</p>	
 			</div>
-			<div class="photo-set">
-				<div class="photo-2">
+			<div class="grid-container-2">
+				<div>
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14708390731_cbb499d913_sized.jpg" width="auto">
 				</div>
-				<div class="photo-2">
+				<div>
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14525069234_0d948bbdb8_sized.jpg" width="auto">
 				</div>
 			</div>
 			<div class="fotj-content">
 				<p>
-					The living arrangements will be organized enough to maintain a smooth flow of work and life without being burdensome. To this end, you will all be dividing up the necessary group responsibilities, outlined below. These will include participating in educational opportunities, writing daily journal entries &#x270F;, taking pictures &#x1F4F8; and possibly updating various social media outlets when appropriate. Student Trip Leaders will be responsible for making sure that everything that needs to happen does happen each day. Trip Leaders will make all final decisions, delegate authority, and define duties for the others when necessary.
+					The living arrangements will be organized enough to maintain a smooth flow of work and life without being burdensome. To this end, you will all be dividing up the necessary group responsibilities, outlined below. These will include participating in educational opportunities, writing daily journal entries &#x270F;, taking pictures &#x1F4F8; and possibly updating various social media outlets when appropriate&#x1F933;. Student Trip Leaders will be responsible for making sure that everything that needs to happen does happen each day. Trip Leaders will make all final decisions, delegate authority, and define duties for the others when necessary.
 				</p>
+			</div>
+			<div>
+					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P6020653.jpg" class="wide-image" width="100%" height="auto">
+			</div>
+			
 
+
+			<div class="fotj-content">	
 				<div class="wave-break">
 				</div>
 				<h2 id="homepage-goals">Specific Course Goals</h2>
@@ -203,7 +214,8 @@
 					This will consist of a final presentation on the final day of class, 6/18. These presentations will be synthetic evaluations of observations made in the field. The topics should relate to course subject material. Topics will be evaluated and approved before we leave the Rice Rivers Center. These will be done in groups of 2.
 				</p>
 				<div class="wave-break">
-				</div>	
+				</div>
+			</div>	
 			</div>
 		</div>
 	</div>
