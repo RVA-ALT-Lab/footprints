@@ -35,30 +35,35 @@
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14245723867_87e09d7b80_sized.jpg" width="100%">
 				</div>
 				<div class="photo-caption">
-					<h5>This is a caption for this photo. Isn't it nice?</h5>
+					<h5>Views like this are common along the waterways of the James River.</h5>
 				</div>
 				<p>
 					This expedition will be a collaborative field experience early in the summer of 2019. It will begin with a prep day on campus and several days of paddling down the river from the current capital in Richmond towards the colonial capital at Jamestown. The class will spend a few days in between these at the <a href="https://ricerivers.vcu.edu/">VCU Rice Rivers Center</a> on the James River in Charles City County, VA. The class will spend their time here with a series of topical seminars and skill development classes to help them build their knowledge. After this the class will continue to investigate the lower James by paddling to the colonial capital at Jamestown before returning to Richmond for a night. The next day the class will drive to the upper James River near the Blue Ridge Mountains &#x1F304; and proceed by canoe and batteau through the watershed back down the river to Richmond.
 				</p>
+			</div>
+			<div>
+				<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P5250411a.jpg" class="wide-image" width="100%" height="auto">
+			</div>
+				<div class="photo-caption">
+						<h5>This is a caption for this photo. Isn't it nice?</h5>
+				</div>
+			<div class="fotj-content">	
 				<p>
 					The goal for each student will be to learn more about the specific features that make up this river system by immersing themselves in the landscape. Each student will be tasked with identifying a particular issue of interest before the expedition portion of the class. By stimulating individual ownership of this issue,___
 				</p>
 				<p>	
 					In addition, students will learn and practice advanced camping, canoeing/kayaking, and outdoor living skills, including <a href="https://lnt.org/learn/7-principles">Leave No Trace theory</a> &#x1F3D5;. Students will also learn to function as team members, and will be instructed in expedition management, group dynamics, and leadership skills &#x1F4E3;.
 				</p>
+			</div>
+			
+			<div class="fotj-content">
 				<div>
-					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P5270719.jpg" width="100%">
+						<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P5270719.jpg" width="100%">
 				</div>
-				<div class="photo-caption">
-					<h5>This is a caption for this photo. Isn't it nice?</h5>
-				</div>
-			</div>
-			<div>
-				<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14409007516_e91f8e76d0_sized.jpg" class="wide-image" width="100%" height="auto">
-			</div>
-				<div class="photo-caption">
+					<div class="photo-caption">
 						<h5>This is a caption for this photo. Isn't it nice?</h5>
-				</div>
+					</div>
+			</div>
 			<div class="fotj-content">
 				<h2>Field lessons on the James River</h2>
 				<p>
@@ -102,10 +107,16 @@
 			</div>
 			<div class="grid-container-2">
 				<div>
-					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14708390731_cbb499d913_sized.jpg" width="auto">
+					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14708390731_cbb499d913_sized.jpg">
 				</div>
 				<div>
-					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14525069234_0d948bbdb8_sized.jpg" width="auto">
+					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14525069234_0d948bbdb8_sized.jpg">
+				</div>
+				<div>
+					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P6050407.jpg">
+				</div>
+				<div>
+					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P6050421.jpg">
 				</div>
 			</div>
 			<div class="fotj-content">

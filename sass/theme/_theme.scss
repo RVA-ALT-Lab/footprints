@@ -65,6 +65,7 @@ header {
   top: 0;
   overflow: hidden;
   background-color: black;
+  margin-bottom: 50px;
 }
 
 .scroll-to-content-arrow {
@@ -168,7 +169,7 @@ header {
 
 .fotj-content {
   padding: 40px 15%;
-  margin: 50px auto;
+  // margin: 50px auto;
   color: black;
   text-align: left;
   
@@ -284,9 +285,9 @@ header {
   text-align: center;
 }
 
-.wide-image {
-  margin: -50px 0 0 0;
-}
+// .wide-image {
+//   margin: -50px 0 0 0;
+// }
 
 .vert-path {
   background-image: url("../imgs/vert_path.svg");
