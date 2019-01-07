@@ -29,7 +29,13 @@
 			<div class="fotj-content">
 				<h2 class="lead-title" id="homepage-content">The Story of this Course</h2>
 				<p>
-					<span class="drop-cap">T</span>he principal idea behind this class is to expose the students to the importance of the James River watershed to the residents of Virginia in the present, past and future. This collaborative, experiential learning opportunity will combine faculty from the Department of <a href="https://biology.vcu.edu/">Biology</a>, the <a href="https://ces.vcu.edu/">Center for Environmental Studies</a> and the <a href="https://recsports.vcu.edu/programs/outdoor-adventure-program/">Outdoor Adventure Program</a>. By immersing students in a natural landscape prominent in Virginia’s history for three weeks, kayaking and canoeing down the James River, this program represents a unique opportunity for students at VCU to learn about human history, natural history and how the two have shaped each other &#x1F463;&#x1F43E;.
+					<span class="drop-cap">T</span>he principal idea of this class is to explore the intersection of human and natural history in the James River and its watershed to the residents of Virginia in the present, past and future. By immersing themselves in the environment, the students will experience this intersection firsthand, learning the species and habitats that have played critical roles in the development of our city, state and nation today. &#x1F463;&#x1F43E;
+				</p>
+				<div class="vid-container">
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/fdK8LjzPNLc?&modestbranding=1&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+				<p>	
+					This experience was first offered in 2014, when faculty from the Virginia Commonwealth University Department of <a href="https://biology.vcu.edu/">Biology</a>, the <a href="https://ces.vcu.edu/">Center for Environmental Studies</a>, the History Department, and the <a href="https://recsports.vcu.edu/programs/outdoor-adventure-program/">Outdoor Adventure Department</a> came together and decided to offer VCU students a new way to learn about the importance of the James River to the inhabitants of Virginia and the nation. This experience offered an immersive field study experience that placed the students in a landscape that has been shaped by its inhabitants over the last 10,000 years and is central to the development of the nation in the 400 years since European settlement.
 				</p>
 				<div>
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14245723867_87e09d7b80_sized.jpg" width="100%">
@@ -42,6 +48,30 @@
 				</p>
 			</div>
 			<div>
+				<section id="mini-grid">
+					<div class=ric>
+						<h2>Richmond</h2>
+					</div>
+					<div class=waves>
+						<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/three_waves.svg">
+					</div>
+					<div class=wave>
+						<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/one_wave.svg">
+					</div>
+					<div class=amount>19 days |<br>130 miles
+					</div>
+					<div class=jam>
+						<h2>Jamestown</h2>
+					</div>
+					<div class=lyn>
+						<h2>Lynchburg</h2>
+					</div>
+					<div class=dash>
+						<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/dashed_line.svg">
+					</div>
+				</section>
+			</div>
+			<div>
 				<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P5250411a.jpg" class="wide-image" width="100%" height="auto">
 			</div>
 				<div class="photo-caption">
@@ -49,7 +79,7 @@
 				</div>
 			<div class="fotj-content">	
 				<p>
-					The goal for each student will be to learn more about the specific features that make up this river system by immersing themselves in the landscape. Each student will be tasked with identifying a particular issue of interest before the expedition portion of the class. By stimulating individual ownership of this issue,___
+					The goal for each student will be to learn more about the specific features that make up this river system by immersing themselves in the landscape. Each student will be tasked with identifying a particular issue of interest before the expedition portion of the class. By stimulating individual ownership of this issue,...
 				</p>
 				<p>	
 					In addition, students will learn and practice advanced camping, canoeing/kayaking, and outdoor living skills, including <a href="https://lnt.org/learn/7-principles">Leave No Trace theory</a> &#x1F3D5;. Students will also learn to function as team members, and will be instructed in expedition management, group dynamics, and leadership skills &#x1F4E3;.
@@ -67,7 +97,7 @@
 			<div class="fotj-content">
 				<h2>Field lessons on the James River</h2>
 				<p>
-					<span class="drop-cap">T</span>he class course work will be presented in several formats. First, there will be ample opportunity for primary experiential education experiences. Second, there will be a few presentations from faculty and topical experts&#x1F984; throughout the course. Third will be peer to peer___
+					<span class="drop-cap">T</span>he class course work will be presented in several formats. First, there will be ample opportunity for primary experiential education experiences. Second, there will be a few presentations from faculty and topical experts&#x1F984; throughout the course. Third will be peer to peer...
 				</p> 
 			</div>
 			<div class="grid-container-3">
@@ -133,7 +163,7 @@
 			<div class="fotj-content">	
 				<div class="wave-break">
 				</div>
-				<h2 id="homepage-goals">Specific Course Goals</h2>
+				<h2 id="homepage-goals">Course Goals</h2>
 				<p>
 					Students should be able to:
 					<ul>
@@ -148,6 +178,15 @@
 				<div class="wave-break">
 				</div>
 				<h2>Requirements</h2>
+				<p>
+					<h3>Expedition Mindset:</h3> Each student should undertake this experience with an open mind and a clear sense of purpose. This includes developing an expedition mindset to maximize the opportunity. It will be up to each of us to do our part to generate and maintain an environment conducive to safety and learning. We must each do our part to treat our classmates as we wish to be treated.
+				</p>
+				<p>
+					<h3>Writing:</h3> We will be writing and sketching much of our course material by hand in bound journals. This is a challenge some students will be more prepared for than others. While you will be provided with the journals and ...
+				</p>
+				<p>
+					We will be living and learning in a field setting with minimal access to the outside world, which includes access to cell phone signal, the internet and other people. While I eagerly await this golden moment each year, it may be uncomfortable and ...
+				</p>
 				<p>
 					<h3>Honor Code:</h3> Giving or receiving unauthorized assistance on tests or any other graded activities, as well as plagiarism, are violations of the University's Honor Code and will result in failure and a referral to the Student Honor Court. Also, students who observe cheating or any violation of the Honor Code have a responsibility to follow the procedures detailed in the Virginia Commonwealth University Student Handbook.
 				</p>
