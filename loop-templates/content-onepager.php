@@ -26,28 +26,58 @@
 		<a href="#homepage-content"><img src="<?php echo get_stylesheet_directory_uri();?>/imgs/arrow-down-white.svg"></a>
 		</div>
 		<div class="vert-path">
+			<div class="fotj-sidebar">
+				<div class="side-join-us">
+					Come join us on our next adventure along the James River
+				</div>
+				<div class="apply-button">
+					<a href="https://docs.google.com/forms/d/1mhXoQ_UIpjR-OgzuI3P_LXHTaoHJ2E08RAH8uFrj4L8/"><button class=apply-now>Apply now</button></a>
+				</div>
+			</div>
 			<div class="fotj-content">
+				<div class="join-us-mobile">
+					Come join us on our next adventure along the James River
+				</div>
+				<div class="apply-button-mobile">
+					<a href="https://docs.google.com/forms/d/1mhXoQ_UIpjR-OgzuI3P_LXHTaoHJ2E08RAH8uFrj4L8/"><button class=apply-now-mobile>Apply now</button></a>
+				</div>
 				<h2 class="lead-title" id="homepage-content">The Story of this Course</h2>
 				<p>
-					<span class="drop-cap">T</span>he principal idea of this class is to explore the intersection of human and natural history in the James River and its watershed to the residents of Virginia in the present, past and future. By immersing themselves in the environment, the students will experience this intersection firsthand, learning the species and habitats that have played critical roles in the development of our city, state and nation today. &#x1F463;&#x1F43E;
+					<span class="drop-cap">T</span>his expedition class explores the intersection of human and natural history in the James River and its watershed. By immersing themselves in this environment, the students will experience this intersection firsthand, learning the landscape that shaped the development of many cultures, including our city, state and nation.
+				</p>
+				<p>
+					The James River is a feature of profound natural and historic interest in the history of our nation. In many ways the history of human settlement in the James River watershed mirrors the history of the United States. &#x1F463;
 				</p>
 				<div class="vid-container">
 					<iframe src="https://www.youtube.com/embed/fdK8LjzPNLc?&modestbranding=1&rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 				</div>
+			</div>
+			<div class="fotj-sidebar">
+				<div class="fotj-quote">
+					“To hear the birds and see them fly; to walk up to a tree, take a leaf and sketch it in our notebooks - it's the physical and mental connections that I get. It really helps me with learning.”
+					<span class="fotj-quote-author">
+					– Alissa Nicholson, VCU Student
+					</span>
+				</div>
+			</div>
+			<div class="fotj-content">
 				<p>	
-					This experience was first offered in 2014, when faculty from the Virginia Commonwealth University Department of <a href="https://biology.vcu.edu/">Biology</a>, the <a href="https://ces.vcu.edu/">Center for Environmental Studies</a>, the History Department, and the <a href="https://recsports.vcu.edu/programs/outdoor-adventure-program/">Outdoor Adventure Department</a> came together and decided to offer VCU students a new way to learn about the importance of the James River to the inhabitants of Virginia and the nation. This experience offered an immersive field study experience that placed the students in a landscape that has been shaped by its inhabitants over the last 10,000 years and is central to the development of the nation in the 400 years since European settlement.
+					First offered in 2014, this experience offers an immersive field study experience to place students in a landscape that has been shaped by its inhabitants over the last 10,000 years and is central to the development of the nation in the 400 years since European settlement. Faculty from the Virginia Commonwealth University <a href="https://biology.vcu.edu/">Department of Biology</a>, the <a href="https://ces.vcu.edu/">Center for Environmental Studies</a>, the <a href="https://ricerivers.vcu.edu/">Rice Rivers Center</a>, the <a href="https://history.vcu.edu/">History Department</a>, and the <a href="https://recsports.vcu.edu/programs/outdoor-adventure-program/">Outdoor Adventure Department</a> came together to offer VCU students a new way to learn about the importance of the James River to the inhabitants of Virginia and the nation.
 				</p>
 				<div>
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14245723867_87e09d7b80_sized.jpg" width="100%">
 				</div>
 				<div class="photo-caption">
-					<h5>Views like this are common along the waterways of the James River.</h5>
+					<h5>James River at Scottsville looking at Horseshoe Bend</h5>
 				</div>
 				<p>
-					This expedition will be a collaborative field experience early in the summer of 2019. It will begin with a prep day on campus and several days of paddling down the river from the current capital in Richmond towards the colonial capital at Jamestown. The class will spend a few days in between these at the <a href="https://ricerivers.vcu.edu/">VCU Rice Rivers Center</a> on the James River in Charles City County, VA. The class will spend their time here with a series of topical seminars and skill development classes to help them build their knowledge. After this the class will continue to investigate the lower James by paddling to the colonial capital at Jamestown before returning to Richmond for a night. The next day the class will drive to the upper James River near the Blue Ridge Mountains &#x1F304; and proceed by canoe and batteau through the watershed back down the river to Richmond.
+					The 2019 Footprints on the James Expedition will travel for 19 days, covering 185 river miles. The journey begins at the Falls of the James in downtown Richmond and proceeds by kayak downriver through the Tidewater to the colonial capital at Jamestown Island. The class then travels to the foothills of the Blue Ridge mountains &#x1F304; and returns to the river at Lynchburg. From Percival’s Island in downtown Lynchburg the class travels through the Piedmont by canoe and batteau, retracing the historic trade routes of the late eighteenth century.     ** for the remainder of the class, finishing our journey at the dams above Richmond.
 				</p>
 			</div>
-			<div>
+			<div class="fotj-sidebar">
+				Here's a great place to put some interesting info about some neat factoid. It could be anything. Anyting at all.
+			</div>
+			<div class="mini-map">
 				<section id="mini-grid">
 					<div class=ric>
 						<h2>Richmond</h2>
@@ -58,7 +88,7 @@
 					<div class=wave>
 						<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/one_wave.svg">
 					</div>
-					<div class=amount>19 days |<br>130 miles
+					<div class=amount>19 days |<br>185 miles
 					</div>
 					<div class=jam>
 						<h2>Jamestown</h2>
@@ -75,29 +105,42 @@
 				<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P5250411a.jpg" class="wide-image" width="100%" height="auto">
 			</div>
 				<div class="photo-caption">
-						<h5>This is a caption for this photo. Isn't it nice?</h5>
+						<h5>The class on the Lower James, paddling between Presquile National Wildlife Refuge and Shirley Plantation</h5>
 				</div>
+			<div class="fotj-sidebar">
+					<p></p>
+			</div>
 			<div class="fotj-content">	
 				<p>
-					The goal for each student will be to learn more about the specific features that make up this river system by immersing themselves in the landscape. Each student will be tasked with identifying a particular issue of interest before the expedition portion of the class. By stimulating individual ownership of this issue,...
+					The expedition is the right way to learn this system because:
+					<ul> 
+						<li>Increased exposure promotes awareness and observation skills.</li>
+						<li>Opportunities for lessons relevant to intersection</li>
+					</ul>
 				</p>
 				<p>	
-					In addition, students will learn and practice advanced camping, canoeing/kayaking, and outdoor living skills, including <a href="https://lnt.org/learn/7-principles">Leave No Trace theory</a> &#x1F3D5;. Students will also learn to function as team members, and will be instructed in expedition management, group dynamics, and leadership skills &#x1F4E3;.
+					The expedition format of this experience brings several important opportunities to VCU students. Students will learn and practice advanced camping, canoeing/kayaking, and outdoor living skills, including practical <a href="https://lnt.org/learn/7-principles">Leave No Trace theory</a> &#x1F3D5;. Students will also learn to function as team members, and will be instructed in expedition management, group dynamics, and leadership skills &#x1F4E3;.
 				</p>
 			</div>
-			
+			<div class="fotj-sidebar">
+				Here's a great place to put some interesting info about some neat factoid. It could be anything. Anyting at all.
+			</div>
 			<div class="fotj-content">
 				<div>
 						<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P5270719.jpg" width="100%">
 				</div>
 					<div class="photo-caption">
-						<h5>This is a caption for this photo. Isn't it nice?</h5>
+						<h5>Students learn sampling techniques and examine estuarine fish populations at the VCU Rice Rivers Center</h5>
 					</div>
+			</div>
+			<div class="fotj-sidebar">
 			</div>
 			<div class="fotj-content">
 				<h2>Field lessons on the James River</h2>
 				<p>
-					<span class="drop-cap">T</span>he class course work will be presented in several formats. First, there will be ample opportunity for primary experiential education experiences. Second, there will be a few presentations from faculty and topical experts&#x1F984; throughout the course. Third will be peer to peer...
+					<span class="drop-cap">T</span>he class course work will be presented in several formats. First, there will be ample opportunity for primary experiential education. Students will be tasked with periodic goals to accomplish over the course of the journey. Second, there will be a few presentations from faculty and topical experts&#x1F984; throughout the course. Third will be peer to peer presentations based on topical subjects during the course. All work will be recorded in a daily journal. This journal will contain daily entries, natural history observations, lesson notes and data and personal reflections on the journey. 
+				</p>
+				<p>Student progress will be assessed by student participation, periodic journal reviews and a final written and practical test.
 				</p> 
 			</div>
 			<div class="grid-container-3">
@@ -119,17 +162,20 @@
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P6040229.jpg">
 				</div>
 			</div>
-
+			<div class="fotj-sidebar">
+					<br><br><br><br>
+					Here's a great place to put some interesting info about some neat factoid. It could be anything. Anyting at all.
+			</div>
 			<div class="fotj-content">
 				<h2>Trip Life</h2>
 				<p>
-					<span class="drop-cap">A</span>ll participants will be living, travelling and learning in variety of camping locations in close proximity to the James River and its watershed. From the first night out &#x1F30C;, everyone will be living out of a backpacking tent and eating meals prepared by our classmates. After the first week, most of your nights will be spent in a different place from the evening before. While there will be a few opportunities for a night back in Richmond, we will spend ~19 days and nights in the field.
+					<span class="drop-cap">A</span>ll participants will be living, travelling, and learning in variety of camping locations in close proximity to the James River and its watershed. From the first night out &#x1F30C;, everyone will be living out of a backpacking tent and eating meals prepared by our classmates. After the first week, most of your nights will be spent in a different place from the evening before. While there will be a few opportunities for a night back in Richmond, we will spend 19 days and nights in the field.
 				</p>
 				<div>
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P5311511.jpg" width="100%" style="">
 				</div>
 				<div class="photo-caption">
-					<h5>This is a caption for this photo. Isn't it nice?</h5>
+					<h5>The class at Jamestown Beach, excited to finish the first leg of their journey!</h5>
 				</div>
 				<p>
 					Showers, grid electricity and refrigeration will be infrequent if not absent. The class will take place during the early summer in Virginia; students will have ample opportunity to consider mosquitos, heat, sunburn, ticks, chafing, and body odor &#x1F9DF;. To accommodate this, the day to day operations of this trip will be largely the responsibility of the student participants. This will require both self discipline and cooperation among our members.
@@ -149,17 +195,21 @@
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P6050421.jpg">
 				</div>
 			</div>
+			<div class="fotj-sidebar">
+			</div>
 			<div class="fotj-content">
 				<p>
-					The living arrangements will be organized enough to maintain a smooth flow of work and life without being burdensome. To this end, you will all be dividing up the necessary group responsibilities, outlined below. These will include participating in educational opportunities, writing daily journal entries &#x270F;, taking pictures &#x1F4F8; and possibly updating various social media outlets when appropriate&#x1F933;. Student Trip Leaders will be responsible for making sure that everything that needs to happen does happen each day. Trip Leaders will make all final decisions, delegate authority, and define duties for the others when necessary.
+					Living arrangements are established enough to maintain a smooth flow of work and life without being burdensome. To this end, students share group responsibilities by rotation. These responsibilities include traditional expedition participating in educational opportunities, writing daily journal entries &#x270F;. Student Trip Leaders will be responsible for making sure that everything that needs to happen does happen each day. Trip Leaders will make all final decisions, delegate authority, and define duties for the others when necessary.
 				</p>
 			</div>
 			<div>
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P6020653.jpg" class="wide-image" width="100%" height="auto">
 			</div>
-			
-
-
+			<div class="photo-caption">
+					<h5>Approaching rapids aboard the batteau Slate River near Buckingham County, VA</h5>
+			</div>
+			<div class="fotj-sidebar">
+			</div>
 			<div class="fotj-content">	
 				<div class="wave-break">
 				</div>
@@ -177,7 +227,7 @@
 				</p>
 				<div class="wave-break">
 				</div>
-				<h2>Requirements</h2>
+				<h2>Expectations</h2>
 				<p>
 					<h3>Expedition Mindset:</h3> Each student should undertake this experience with an open mind and a clear sense of purpose. This includes developing an expedition mindset to maximize the opportunity. It will be up to each of us to do our part to generate and maintain an environment conducive to safety and learning. We must each do our part to treat our classmates as we wish to be treated.
 				</p>
@@ -187,12 +237,12 @@
 				<p>
 					We will be living and learning in a field setting with minimal access to the outside world, which includes access to cell phone signal, the internet and other people. While I eagerly await this golden moment each year, it may be uncomfortable and ...
 				</p>
-				<p>
+				<!-- <p>
 					<h3>Honor Code:</h3> Giving or receiving unauthorized assistance on tests or any other graded activities, as well as plagiarism, are violations of the University's Honor Code and will result in failure and a referral to the Student Honor Court. Also, students who observe cheating or any violation of the Honor Code have a responsibility to follow the procedures detailed in the Virginia Commonwealth University Student Handbook.
-				</p>
-				<p>
+				</p> -->
+				<!-- <p>
 					Participants will be held to the <a href="https://conduct.students.vcu.edu/student-code-of-conduct/">VCU Student Code of Conduct</a> at all times. This document and other relevant information can be found at the following link. Please pay particular attention to the section regarding conduct off-campus.
-				</p>
+				</p> -->
 				<p>
 					<h3>Required Readings:</h3> TBD. Students will be given a course pack with required readings, articles, etc.
 				</p>
@@ -200,20 +250,20 @@
 				</div>
 				<h2>Assessment</h2>
 				<p>
-					<h3>Grades for all assignments will be on this scale:
+					<!-- <h3>Grades for all assignments will be on this scale:
 						<h4>
 							90-100%=A, 80-89%=B, 70-79%=C, 60-69%=D, 0-59%=F
 						</h4>
-					</h3>
+					</h3> -->
 				</p>
 				<p>
 					This class will be assessed by a variety of traditional assessment techniques, including grading writing assignments, a written examination, and topical presentations. In addition, we plan to have students to undertake individualized and specialized research, and then teach some content of their own. Each student will be expected to keep journals of their observations and experiences during these exercises. Students will also be expected to keep a detailed and analytical personal journal of the class, to serve as an assessment tool as well as an outlet of student creative expression and self reflection.
 				</p>
 				<p>
 					<h3>Field and personal reflection journal:
-						<h4>
+						<!-- <h4>
 							20% field, 20% reflection
-						</h4>
+						</h4> -->
 					</h3>
 					<ul>
 						<li>1st entry before departure – discuss any expectations and fears you have about this trip/course, etc.</li>
@@ -232,9 +282,9 @@
 				</p>
 				<p>
 					<h3>Participation and Professionalism:
-						<h4>
+						<!-- <h4>
 							30%
-						</h4>
+						</h4> -->
 					</h3>
 				</p>
 				<p>
@@ -245,15 +295,15 @@
 				</p>
 				<p>
 					<h3>Practical Exam:
-						<h4>
+						<!-- <h4>
 							15%
-						</h4>
+						</h4> -->
 					</h3>
 				</p>
 				<p>
 					This exam will be an assessment of your comprehension and retention of the material and techniques present up to the end the week at the Rice Center.
 				</p>
-				<p>
+				<!-- <p>
 					<h3>End of Course Project/Presentation:
 						<h4>
 							15%?
@@ -262,7 +312,7 @@
 				</p>
 				<p>
 					This will consist of a final presentation on the final day of class, 6/18. These presentations will be synthetic evaluations of observations made in the field. The topics should relate to course subject material. Topics will be evaluated and approved before we leave the Rice Rivers Center. These will be done in groups of 2.
-				</p>
+				</p> -->
 				<div class="wave-break">
 				</div>
 			</div>	
