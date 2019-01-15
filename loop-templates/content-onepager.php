@@ -28,18 +28,24 @@
 		<div class="vert-path">
 			<div class="fotj-sidebar">
 				<div class="side-join-us">
-					Come join us on our next adventure along the James River
+					Come join us on our next VCU adventure down the James River
 				</div>
 				<div class="apply-button">
 					<a href="https://docs.google.com/forms/d/1mhXoQ_UIpjR-OgzuI3P_LXHTaoHJ2E08RAH8uFrj4L8/"><button class=apply-now>Apply now</button></a>
 				</div>
+				<div class="deadline-date">
+					Application deadline is March 15th, 2019
+				</div>
 			</div>
 			<div class="fotj-content">
 				<div class="join-us-mobile">
-					Come join us on our next adventure along the James River
+					Come join us on our next VCU adventure down the James River
 				</div>
 				<div class="apply-button-mobile">
 					<a href="https://docs.google.com/forms/d/1mhXoQ_UIpjR-OgzuI3P_LXHTaoHJ2E08RAH8uFrj4L8/"><button class=apply-now-mobile>Apply now</button></a>
+				</div>
+				<div class="deadline-date-mobile">
+					Application deadline is March 15th, 2019
 				</div>
 				<h2 class="lead-title" id="homepage-content">The Story of this Course</h2>
 				<p>
@@ -219,10 +225,10 @@
 					<ul>
 						<li>identify the major features of a river system and its related watershed</li>
 						<li>discuss the distinguishing features of the James River and its watershed</li>
-						<li>identify, compare and discuss features of a biological system of interest in each of the three regions of the river (or equivalent independent project)</li>
+						<li>identify, compare and discuss features of a biological system of interest in each of the regions of the river (or equivalent independent project)</li>
 						<li>recognize and understand many of the ways in which human habitation and development have impacted the James River, and vice versa</li>
 						<li>understand & explain connections between the river and the land which surrounds it</li>
-						<li>learn, use and demonstrate proficiency in expedition skills, management, and logistics as it relates to this trip</li>
+						<li>learn, use, and demonstrate proficiency in expedition skills, management, and logistics as it relates to this experience</li>
 					</ul>
 				</p>
 				<div class="wave-break">
@@ -232,10 +238,10 @@
 					<h3>Expedition Mindset:</h3> Each student should undertake this experience with an open mind and a clear sense of purpose. This includes developing an expedition mindset to maximize the opportunity. It will be up to each of us to do our part to generate and maintain an environment conducive to safety and learning. We must each do our part to treat our classmates as we wish to be treated.
 				</p>
 				<p>
-					<h3>Writing:</h3> We will be writing and sketching much of our course material by hand in bound journals. This is a challenge some students will be more prepared for than others. While you will be provided with the journals and ...
+					<h3>Writing:</h3> We will be writing and sketching much of our course material by hand in bound journals.
 				</p>
 				<p>
-					We will be living and learning in a field setting with minimal access to the outside world, which includes access to cell phone signal, the internet and other people. While I eagerly await this golden moment each year, it may be uncomfortable and ...
+					We will be living and learning in a field setting with minimal access to the outside world, which includes access to cell phone signal, the internet, and other people.
 				</p>
 				<!-- <p>
 					<h3>Honor Code:</h3> Giving or receiving unauthorized assistance on tests or any other graded activities, as well as plagiarism, are violations of the University's Honor Code and will result in failure and a referral to the Student Honor Court. Also, students who observe cheating or any violation of the Honor Code have a responsibility to follow the procedures detailed in the Virginia Commonwealth University Student Handbook.
