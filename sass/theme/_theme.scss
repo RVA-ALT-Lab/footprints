@@ -29,7 +29,7 @@ article a {
 }
 
 .logo-abbr {
-  font-family: Boogaloo, sans-serif;
+  font-family: Staatliches, sans-serif;
   // font-family: Fjalla One sans-serif;
   font-weight: 400;
   font-size: 3.5vw;
@@ -69,6 +69,8 @@ header {
   border-style: none;
   border-radius: 4px;
   width: 100%;
+  box-shadow: 0 3px 0 #ae0c0c;
+  margin-bottom: 5px;
   // margin-top: 50px;
 }
 
@@ -128,8 +130,11 @@ header {
    position: absolute;
    top: 0; left: 0; bottom: 0; right: 0;
   //  background: radial-gradient(circle, transparent 20%, black 150%);
-   background: radial-gradient(transparent 60%, #e30000 150%);
+   background: radial-gradient(transparent 60%, #4e0024 150%);
    mix-blend-mode: difference;
+   background-image: url("../imgs/vert_path.svg");
+   background-repeat: repeat-y;
+   margin: 0 5%;
 }
 
 .vid-container {
@@ -262,9 +267,9 @@ header {
 }
 
 .foot-title {
-  font-family: Boogaloo, sans-serif;
+  font-family: Staatliches, sans-serif;
   font-weight: 400;
-  font-size: 4em;
+  font-size: 9em;
   letter-spacing: -0.03em;
   padding: 20px 0 20px 0;
   color: white;
@@ -272,10 +277,12 @@ header {
   top: 55%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-image: url("../imgs/title_footpath2.svg");
-  background-repeat: repeat-x;
+  // background-image: url("../imgs/title_footpath2.svg");
+  // background-repeat: repeat-x;
   width: 100%;
   text-shadow: -1px -1px 0 #6c757d, 1px -1px 0 #6c757d, -1px 1px 0 #6c757d, 1px 1px 0 #6c757d;
+  text-align: left;
+  line-height: .9em;
 }
 
 .sub-title {
@@ -565,7 +572,8 @@ header {
     padding-left: 19px;
   }
   .foot-title {
-    line-height: 1em;
+    line-height: .8em;
+    font-size: 24vw;
   }
   .sub-title {
     top: 90%;
@@ -573,6 +581,9 @@ header {
   }
   .scroll-to-content-arrow {
     display: none;
+  }
+  .fotj-container::after {
+    margin: 0 5px;
   }
   .vert-path {
     margin: -55px 5px;
@@ -610,10 +621,12 @@ header {
     border-style: none;
     border-radius: 4px;
     width: 100%;
+    box-shadow: 0 3px 0 #ae0c0c;
+    margin-bottom: 5px;
   }
   .deadline-date-mobile {
-    display: block;
-    text-align: center;
+    display: none;
+    // text-align: center;
   }
   .deadline-date {
     display: none;

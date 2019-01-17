@@ -19,7 +19,14 @@
 			<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/covers/14245638069_5130506d87_sized.jpg" class="cover-image">
 			<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/covers/dsc_0081vin_sized.jpg" class="cover-image">
 			<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/covers/14245515998_9954e288c3_sized.jpg" class="cover-image">
-				<div class="foot-title">FOOTPRINTS ON THE JAMES</div>
+				<div class="foot-title">
+					FOOTPRINTS
+					<br>
+					ON
+					<br>
+					THE
+					<br>JAMES
+				</div>
 		</div>
 		<div class="sub-title">The Natural and Human History of the James River Watershed</div>
 		<div class="scroll-to-content-arrow">

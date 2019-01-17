@@ -75,7 +75,7 @@ require get_template_directory() . '/inc/editor.php';
 add_action('wp_enqueue_scripts', 'alt_lab_scripts');
 function alt_lab_scripts() {
 	$query_args = array(
-		'family' => 'Fjalla+One|EB+Garamond|Boogaloo|Ubuntu',
+		'family' => 'Fjalla+One|Open+Sans|Boogaloo|Ubuntu|Staatliches',
 		'subset' => 'latin,latin-ext',
 	);
 	wp_enqueue_style ( 'google_fonts', add_query_arg( $query_args, "//fonts.googleapis.com/css" ), array(), null );
