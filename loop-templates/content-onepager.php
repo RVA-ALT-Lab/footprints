@@ -69,7 +69,7 @@
 				<div class="fotj-quote">
 					“To hear the birds and see them fly; to walk up to a tree, take a leaf and sketch it in our notebooks - it's the physical and mental connections that I get. It really helps me with learning.”
 					<span class="fotj-quote-author">
-					– Alissa Nicholson, VCU Student
+					– Alissa, FOTJ '16
 					</span>
 				</div>
 			</div>
@@ -84,7 +84,7 @@
 					<h5>James River at Scottsville looking at Horseshoe Bend</h5>
 				</div>
 				<p>
-					The 2019 Footprints on the James Expedition will travel for 19 days, covering 185 river miles. The journey begins at the Falls of the James in downtown Richmond and proceeds by kayak downriver through the Tidewater to the colonial capital at Jamestown Island. The class then travels to the foothills of the Blue Ridge mountains &#x1F304; and returns to the river at Lynchburg. From Percival’s Island in downtown Lynchburg the class travels through the Piedmont by canoe and batteau, retracing the historic trade routes of the late eighteenth century.     ** for the remainder of the class, finishing our journey at the dams above Richmond.
+					The 2019 Footprints on the James Expedition will travel for 19 days, covering 185 river miles. The journey begins at the Falls of the James in downtown Richmond and proceeds by kayak downriver through the Tidewater to the colonial capital at Jamestown Island. The class then travels to the foothills of the Blue Ridge mountains &#x1F304; and returns to the river at Lynchburg. From Percival’s Island in downtown Lynchburg, the class travels through the Piedmont by canoe and batteau, retracing the historic trade routes of the late eighteenth century for the remainder of the class, finishing our journey at the dams above Richmond.
 				</p>
 			</div>
 			<div class="fotj-sidebar">
@@ -132,7 +132,7 @@
 					</ul>
 				</p>
 				<p>	
-					The expedition format of this experience brings several important opportunities to VCU students. Students will learn and practice advanced camping, canoeing/kayaking, and outdoor living skills, including practical <a href="https://lnt.org/learn/7-principles">Leave No Trace theory</a> &#x1F3D5;. Students will also learn to function as team members, and will be instructed in expedition management, group dynamics, and leadership skills &#x1F4E3;.
+					The expedition format of this experience brings several important opportunities to VCU students. Students will learn and practice advanced camping, canoeing/kayaking, and outdoor living skills, including practical <a href="https://lnt.org/learn/7-principles">Leave No Trace education</a> &#x1F3D5;. Students will also learn to function as team members, and will be instructed in expedition management, group dynamics, and leadership skills &#x1F4E3;.
 				</p>
 			</div>
 			<div class="fotj-sidebar">
