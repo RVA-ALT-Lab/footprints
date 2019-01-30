@@ -56,7 +56,7 @@
 				</div>
 				<h2 class="lead-title" id="homepage-content">The Story of this Course</h2>
 				<p>
-					<span class="drop-cap">T</span>his expedition class explores the intersection of human and natural history in the James River and its watershed. By immersing themselves in this environment, the students will experience this intersection firsthand, learning the landscape that shaped the development of many cultures, including our city, state and nation.
+					<span class="drop-cap">T</span>his expedition class explores the intersection of human and natural history in the James River and its watershed. By immersing themselves in this environment, students will experience this intersection firsthand, learning the landscape that shaped the development of many cultures, including our city, state and nation.
 				</p>
 				<p>
 					The James River is a feature of profound natural and historic interest in the history of our nation. In many ways the history of human settlement in the James River watershed mirrors the history of the United States. &#x1F463;
@@ -147,6 +147,12 @@
 					</div>
 			</div>
 			<div class="fotj-sidebar">
+				<div class="fotj-quote">
+					“In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.”
+					<span class="fotj-quote-author">
+					– Leonardo da Vinci
+					</span>
+				</div>
 			</div>
 			<div class="fotj-content">
 				<h2>Field lessons on the James River</h2>
@@ -222,6 +228,12 @@
 					<h5>Approaching rapids aboard the batteau Slate River near Buckingham County, VA</h5>
 			</div>
 			<div class="fotj-sidebar">
+				<div class="fotj-quote">
+					“The advantages to accrue to the United States, from opening this channel of intercourse between the eastern and western States, are those which necessarily result to the whole body from whatever benefits its members, and those which must result to the United States, particularly, from savory measure which tends to cement more closely the union of the eastern with the western States”
+					<span class="fotj-quote-author">
+					– Chief Justice John Marshall
+					</span>
+				</div>
 			</div>
 			<div class="fotj-content">	
 				<div class="wave-break">
