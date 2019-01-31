@@ -186,6 +186,7 @@ header {
 #mini-grid > .waves {
   grid-area: waves;
   text-align: right;
+  padding-top: 15px;
 }
 
 #mini-grid > .wave {
@@ -666,6 +667,9 @@ header {
   }
   #mini-grid h2 {
     font-size: 1.8em;
+  }
+  #mini-grid > .waves {
+    padding-top: 7px;
   }
 }
 

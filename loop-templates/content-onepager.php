@@ -96,7 +96,7 @@
 						<h2>Richmond</h2>
 					</div>
 					<div class=waves>
-						<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/three_waves.svg">
+						<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/two_waves.svg">
 					</div>
 					<div class=wave>
 						<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/one_wave.svg">
