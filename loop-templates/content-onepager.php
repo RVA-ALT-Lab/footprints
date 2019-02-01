@@ -84,7 +84,7 @@
 					<h5>James River at Scottsville looking at Horseshoe Bend</h5>
 				</div>
 				<p>
-					The 2019 Footprints on the James Expedition will travel for 19 days, covering 185 river miles. The journey begins at the Falls of the James in downtown Richmond and proceeds by kayak downriver through the Tidewater to the colonial capital at Jamestown Island. The class then travels to the foothills of the Blue Ridge mountains &#x1F304; and returns to the river at Lynchburg. From Percival’s Island in downtown Lynchburg, the class travels through the Piedmont by canoe and batteau, retracing the historic trade routes of the late eighteenth century for the remainder of the class, finishing our journey at the dams above Richmond.
+					The 2019 Footprints on the James Expedition will travel for 19 days, covering 185 river miles. The journey begins at the Falls of the James in downtown Richmond and proceeds by kayak downriver through the Tidewater to the colonial capital at Jamestown Island. The class then travels to the foothills of the Blue Ridge mountains &#x1F304; and returns to the river at Lynchburg. From Percival’s Island in downtown Lynchburg, the class travels through the Piedmont by canoe and batteau, retracing the historic trade routes of the late eighteenth century for the remainder of the class, finishing our journey near the dams above Richmond.
 				</p>
 			</div>
 			<div class="fotj-sidebar">
@@ -101,7 +101,7 @@
 					<div class=wave>
 						<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/one_wave.svg">
 					</div>
-					<div class=amount>19 days |<br>185 miles
+					<div class=amount>19 days |<br>185 river mi.
 					</div>
 					<div class=jam>
 						<h2>Jamestown</h2>
@@ -118,21 +118,17 @@
 				<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P5250411a.jpg" class="wide-image" width="100%" height="auto">
 			</div>
 				<div class="photo-caption">
-						<h5>The class on the Lower James, paddling between Presquile National Wildlife Refuge and Shirley Plantation</h5>
+						<h5>The class on the Lower James, paddling from Presquile National Wildlife Refuge toward Shirley Plantation</h5>
 				</div>
 			<div class="fotj-sidebar">
 					<p></p>
 			</div>
 			<div class="fotj-content">	
 				<p>
-					The expedition is the right way to learn this system because:
-					<ul> 
-						<li>Increased exposure promotes awareness and observation skills.</li>
-						<li>Opportunities for lessons relevant to intersection</li>
-					</ul>
+					This year’s expedition will offer students two classes, BIOL391 The Natural History of the James River Watershed and ENVS491 Expedition Management, for a total of 6 credits. These courses will be taught in tandem and have been specifically developed to reflect the immersive nature of the experience.
 				</p>
 				<p>	
-					The expedition format of this experience brings several important opportunities to VCU students. Students will learn and practice advanced camping, canoeing/kayaking, and outdoor living skills, including practical <a href="https://lnt.org/learn/7-principles">Leave No Trace education</a> &#x1F3D5;. Students will also learn to function as team members, and will be instructed in expedition management, group dynamics, and leadership skills &#x1F4E3;.
+					Learning natural history in an expedition format offers several unique and important opportunities to our participants. BIOL391 emphasizes observation and application of quantitative and qualitative field skills. Students are encouraged to work as team members, and will be instructed in expedition management, group dynamics, and leadership skills &#x1F4E3;. They will learn best practices for frontcountry and backcountry camping, outdoor living skills, multi-day canoeing and kayaking methods and practical application of <a href="https://lnt.org/learn/7-principles">Leave No Trace principles</a> &#x1F3D5;. These will be assessed periodically by the review of reflection and observation journal entries and cumulatively by a final practical exam.
 				</p>
 			</div>
 			<div class="fotj-sidebar">
