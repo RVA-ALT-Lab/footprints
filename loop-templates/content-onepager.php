@@ -153,7 +153,7 @@
 			<div class="fotj-content">
 				<h2>Field lessons on the James River</h2>
 				<p>
-					<span class="drop-cap">T</span>he class course work will be presented in several formats. First, there will be ample opportunity for primary experiential education. Students will be tasked with periodic goals to accomplish over the course of the journey. Second, there will be a few presentations from faculty and topical experts&#x1F984; throughout the course. Third will be peer to peer presentations based on topical subjects during the course. All work will be recorded in a daily journal. This journal will contain daily entries, natural history observations, lesson notes and data and personal reflections on the journey. 
+					<span class="drop-cap">T</span>he class course work will be presented in several formats. First, there will be ample opportunity for primary experiential education. Students will be tasked with periodic goals to accomplish over the course of the journey. Second, will be presentations from faculty and topical experts&#x1F984; throughout the course. Third, peer to peer presentations based on topical subjects during the course. All work will be recorded in a daily journal. This journal will contain daily entries, natural history observations, lesson notes and data and personal reflections on the journey. 
 				</p>
 				<p>Student progress will be assessed by student participation, periodic journal reviews and a final written and practical test.
 				</p> 
@@ -184,7 +184,7 @@
 			<div class="fotj-content">
 				<h2>Trip Life</h2>
 				<p>
-					<span class="drop-cap">A</span>ll participants will be living, travelling, and learning in variety of camping locations in close proximity to the James River and its watershed. From the first night out &#x1F30C;, everyone will be living out of a backpacking tent and eating meals prepared by our classmates. After the first week, most of your nights will be spent in a different place from the evening before. While there will be a few opportunities for a night back in Richmond, we will spend 19 days and nights in the field.
+					<span class="drop-cap">A</span>ll participants will be living, travelling, and learning in variety of camping locations in close proximity to the James River and its watershed. From the first night out &#x1F30C;, everyone will be living out of a backpacking tent and eating meals prepared by our classmates. Most of the nights will be spent in a different place from the evening before. While there will be a night back in Richmond, we will spend nearly three weeks in the field. No experience is expected or necessary to apply for this experience. All we ask is for an open mind and willingness to challenge yourself to live and learn in new ways.
 				</p>
 				<div>
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P5311511.jpg" width="100%" style="">
@@ -214,7 +214,7 @@
 			</div>
 			<div class="fotj-content">
 				<p>
-					Living arrangements are established enough to maintain a smooth flow of work and life without being burdensome. To this end, students share group responsibilities by rotation. These responsibilities include traditional expedition participating in educational opportunities, writing daily journal entries &#x270F;. Student Trip Leaders will be responsible for making sure that everything that needs to happen does happen each day. Trip Leaders will make all final decisions, delegate authority, and define duties for the others when necessary.
+					Living arrangements are established enough to maintain a smooth flow of work and life without being burdensome. Our goal is have everyone cooperate to ensure a healthy environment in which is conducive to learning. To this end, students share group responsibilities by rotation. These responsibilities include traditional expedition management practices,participating in educational opportunities, writing daily journal entries &#x270F;, and managing the unexpected. Student Trip Leaders from the Outdoor Adventure Program will demonstrate skills, delegate authority, define duties, and make all final decisions when necessary.
 				</p>
 			</div>
 			<div>
@@ -240,7 +240,7 @@
 					<ul>
 						<li>identify the major features of a river system and its related watershed</li>
 						<li>discuss the distinguishing features of the James River and its watershed</li>
-						<li>identify, compare and discuss features of a biological system of interest in each of the regions of the river (or equivalent independent project)</li>
+						<li>identify, compare, and discuss features of a biological system of interest in each of the regions of the river</li>
 						<li>recognize and understand many of the ways in which human habitation and development have impacted the James River, and vice versa</li>
 						<li>understand & explain connections between the river and the land which surrounds it</li>
 						<li>learn, use, and demonstrate proficiency in expedition skills, management, and logistics as it relates to this experience</li>
