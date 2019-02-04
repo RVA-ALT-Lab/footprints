@@ -264,25 +264,25 @@
 				<p>
 					<h3>Required Readings:</h3> TBD. Students will be given a course pack with required readings, articles, etc.
 				</p>
-				<div class="wave-break">
-				</div>
-				<h2>Assessment</h2>
-				<p>
+				<!-- <div class="wave-break">
+				</div> -->
+				<!-- <h2>Assessment</h2> -->
+				<!-- <p> -->
 					<!-- <h3>Grades for all assignments will be on this scale:
 						<h4>
 							90-100%=A, 80-89%=B, 70-79%=C, 60-69%=D, 0-59%=F
 						</h4>
 					</h3> -->
-				</p>
-				<p>
+				<!-- </p> -->
+				<!-- <p>
 					This class will be assessed by a variety of traditional assessment techniques, including grading writing assignments, a written examination, and topical presentations. In addition, we plan to have students to undertake individualized and specialized research, and then teach some content of their own. Each student will be expected to keep journals of their observations and experiences during these exercises. Students will also be expected to keep a detailed and analytical personal journal of the class, to serve as an assessment tool as well as an outlet of student creative expression and self reflection.
-				</p>
-				<p>
-					<h3>Field and personal reflection journal:
+				</p> -->
+				<!-- <p>
+					<h3>Field and personal reflection journal: -->
 						<!-- <h4>
 							20% field, 20% reflection
 						</h4> -->
-					</h3>
+					<!-- </h3>
 					<ul>
 						<li>1st entry before departure – discuss any expectations and fears you have about this trip/course, etc.</li>
 						<li>Daily reflection – open ended and/or specific questions</li>
@@ -299,11 +299,11 @@
 					In other words, we don’t want you to go a week without writing anything and then write daily during the last week of the course. It is important for your reflection and analysis to spread out the journal entries across the four weeks. Other than these guidelines, there are no assigned topics for these journal entries. Journals will be collected and checked periodically on the trip. You will turn in your journal at the end of the trip.
 				</p>
 				<p>
-					<h3>Participation and Professionalism:
+					<h3>Participation and Professionalism: -->
 						<!-- <h4>
 							30%
 						</h4> -->
-					</h3>
+					<!-- </h3>
 				</p>
 				<p>
 					Are you engaged in discussions, have you prepared for lectures and discussions by reading the assigned papers, are you excited to learn new skills, are you willing to help out the rest of the field team by stepping in and lending a hand when needed?
@@ -312,15 +312,15 @@
 					Is your general conduct with faculty, student leaders and invited speakers professional? This includes both field and “off-hours” for the duration of the course (See the Professionalism Grading Rubric below).
 				</p>
 				<p>
-					<h3>Practical Exam:
+					<h3>Practical Exam: -->
 						<!-- <h4>
 							15%
 						</h4> -->
-					</h3>
+					<!-- </h3>
 				</p>
 				<p>
 					This exam will be an assessment of your comprehension and retention of the material and techniques present up to the end the week at the Rice Center.
-				</p>
+				</p> -->
 				<!-- <p>
 					<h3>End of Course Project/Presentation:
 						<h4>
