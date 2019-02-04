@@ -253,10 +253,7 @@
 					<h3>Expedition Mindset:</h3> Each student should undertake this experience with an open mind and a clear sense of purpose. This includes developing an expedition mindset to maximize the opportunity. It will be up to each of us to do our part to generate and maintain an environment conducive to safety and learning. We must each do our part to treat our classmates as we wish to be treated.
 				</p>
 				<p>
-					<h3>Writing:</h3> We will be writing and sketching much of our course material by hand in bound journals.
-				</p>
-				<p>
-					We will be living and learning in a field setting with minimal access to the outside world, which includes access to cell phone signal, the internet, and other people.
+					<h3>Writing:</h3> We will be writing and sketching much of our course material by hand in bound journals. These journals will be provided to you as part of the course fee. Students should count on writing and sketching for approximately one hour per day.
 				</p>
 				<!-- <p>
 					<h3>Honor Code:</h3> Giving or receiving unauthorized assistance on tests or any other graded activities, as well as plagiarism, are violations of the University's Honor Code and will result in failure and a referral to the Student Honor Court. Also, students who observe cheating or any violation of the Honor Code have a responsibility to follow the procedures detailed in the Virginia Commonwealth University Student Handbook.
