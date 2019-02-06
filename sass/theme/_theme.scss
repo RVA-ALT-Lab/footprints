@@ -318,6 +318,10 @@ header {
   font-style: italic;
 }
 
+.fotj-superscript-mobile {
+  display: none;
+}
+
 .join-us-mobile {
   display: none;
 }
@@ -670,6 +674,15 @@ header {
   }
   #mini-grid > .waves {
     padding-top: 7px;
+  }
+  .fotj-superscript-mobile {
+    display: block;
+    text-align: left;
+    font-size: .7em;
+    padding: 0 20px 10px 20px;
+  }
+  .fotj-superscript-mobile img {
+    display: none;
   }
 }
 

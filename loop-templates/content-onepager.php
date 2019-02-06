@@ -16,9 +16,9 @@
 
 	<div class="allofit">
 		<div class="fotj-container">
+			<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/covers/34936772073_4a5d27cd4e_o.jpg" class="cover-image">
 			<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/covers/14245638069_5130506d87_sized.jpg" class="cover-image">
-			<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/covers/dsc_0081vin_sized.jpg" class="cover-image">
-			<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/covers/14245515998_9954e288c3_sized.jpg" class="cover-image">
+			<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/covers/35231118206_2fef13aba8_o.jpg" class="cover-image">
 				<div class="foot-title">
 					FOOTPRINTS
 					<br>
@@ -41,7 +41,7 @@
 					<a href="https://docs.google.com/forms/d/1mhXoQ_UIpjR-OgzuI3P_LXHTaoHJ2E08RAH8uFrj4L8/"><button class=apply-now>Apply now</button></a>
 				</div>
 				<div class="deadline-date">
-					Application deadline is March 15th, 2019
+					Application deadline is March 29th, 2019
 				</div>
 			</div>
 			<div class="fotj-content">
@@ -75,7 +75,7 @@
 			</div>
 			<div class="fotj-content">
 				<p>	
-					First offered in 2014, this expedition offers an immersive field study experience to place students in a landscape that has been shaped by its inhabitants over the last 10,000 years and is central to the development of the nation in the 400 years since European settlement. Faculty from the Virginia Commonwealth University <a href="https://biology.vcu.edu/">Department of Biology</a>, the <a href="https://ces.vcu.edu/">Center for Environmental Studies</a>, the <a href="https://ricerivers.vcu.edu/">Rice Rivers Center</a>, the <a href="https://history.vcu.edu/">History Department</a>, and the <a href="https://recsports.vcu.edu/programs/outdoor-adventure-program/">Outdoor Adventure Department</a> came together to offer VCU students a new way to learn about the importance of the James River to the inhabitants of Virginia and the nation.
+					First offered in 2014, this expedition offers an immersive field study experience to place students in a landscape that has been shaped by its inhabitants over the last 10,000 years and is central to the development of the nation in the 400 years since European settlement. Faculty from the Virginia Commonwealth University <a href="https://biology.vcu.edu/">Department of Biology</a>, the <a href="https://ces.vcu.edu/">Center for Environmental Studies</a>, the <a href="https://ricerivers.vcu.edu/">Rice Rivers Center</a>, the <a href="https://history.vcu.edu/">History Department</a>, and the <a href="https://recsports.vcu.edu/programs/outdoor-adventure-program/">Outdoor Adventure Program</a> came together to offer VCU students a new way to learn about the importance of the James River to the inhabitants of Virginia and the nation.
 				</p>
 				<div>
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14245723867_87e09d7b80_sized.jpg" width="100%">
@@ -84,11 +84,12 @@
 					<h5>James River at Scottsville looking at Horseshoe Bend</h5>
 				</div>
 				<p>
-					The 2019 Footprints on the James Expedition will travel for 19 days, covering 185 river miles. The journey begins at the Falls of the James in downtown Richmond and proceeds by kayak downriver through the Tidewater to the colonial capital at Jamestown Island. The class then travels to the foothills of the Blue Ridge mountains &#x1F304; and returns to the river at Lynchburg. From Percival’s Island in downtown Lynchburg, the class travels through the Piedmont by canoe and batteau, retracing the historic trade routes of the late eighteenth century for the remainder of the class, finishing our journey near the dams above Richmond.
+					The 2019 Footprints on the James Expedition will travel for 19 days, covering 185 river miles. The journey begins at the Falls of the James in downtown Richmond and proceeds by kayak downriver through the Tidewater to the colonial capital at Jamestown Island. The class then travels to the foothills of the Blue Ridge mountains &#x1F304; and returns to the river at Lynchburg. From Percival’s Island in downtown Lynchburg, the class travels through the Piedmont by canoe and batteau<sup>1</sup>, retracing the historic trade routes of the late eighteenth century for the remainder of the class, finishing our journey near the dams above Richmond.
 				</p>
 			</div>
 			<div class="fotj-sidebar">
-				Here's a great place to put some interesting info about some neat factoid. It could be anything. Anyting at all.
+				<sup>1</sup>The James River batteau were handmade wooden boats usually 50-70 feet in length, 7-9 feet wide and carried upwards of 10,000 pounds of tobacco and trade goods up and down the James River between 1775 - 1880.
+				<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/batteau2.jpg">
 			</div>
 			<div class="mini-map">
 				<section id="mini-grid">
@@ -114,6 +115,10 @@
 					</div>
 				</section>
 			</div>
+			<div class="fotj-superscript-mobile">
+				<sup>1</sup>The James River batteau were handmade wooden boats usually 50-70 feet in length, 7-9 feet wide and carried upwards of 10,000 pounds of tobacco and trade goods up and down the James River between 1775 - 1880.
+				<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/batteau2.jpg">
+			</div>
 			<div>
 				<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P5250411a.jpg" class="wide-image" width="100%" height="auto">
 			</div>
@@ -128,11 +133,11 @@
 					This year’s expedition will offer students two classes, BIOL391 The Natural History of the James River Watershed and ENVS491 Expedition Management, for a total of 6 credits. These courses will be taught in tandem and have been specifically developed to reflect the immersive nature of the experience.
 				</p>
 				<p>	
-					Learning natural history in an expedition format offers several unique and important opportunities to our participants. BIOL391 emphasizes observation and application of quantitative and qualitative field skills where students are encouraged to work as team members, and will be instructed in expedition management, group dynamics, and leadership skills &#x1F4E3;. They will learn best practices for frontcountry and backcountry camping, outdoor living skills, multi-day canoeing and kayaking methods and practical application of <a href="https://lnt.org/learn/7-principles">Leave No Trace principles</a> &#x1F3D5;. These will be assessed periodically by the review of reflection and observation journal entries and cumulatively by a final practical exam.
+					Learning natural history in an expedition format offers several unique and important opportunities to our participants. BIOL391 emphasizes observation and application of quantitative and qualitative field skills to observe and evaluate the natural features of the James River. ENVS491 encourages students to work as team members and provides introduction to expedition management, group dynamics, and leadership skills &#x1F4E3;. Students will learn best practices for frontcountry and backcountry camping, outdoor living skills, multi-day canoeing and kayaking methods and practical application of <a href="https://lnt.org/learn/7-principles">Leave No Trace principles</a> &#x1F3D5;. These will be assessed periodically by the review of reflection and observation journal entries and cumulatively by a final practical exam.
 				</p>
 			</div>
 			<div class="fotj-sidebar">
-				Here's a great place to put some interesting info about some neat factoid. It could be anything. Anyting at all.
+			FACTOID: 2018 was the wettest year for the James River in the last 124 years
 			</div>
 			<div class="fotj-content">
 				<div>
@@ -153,9 +158,13 @@
 			<div class="fotj-content">
 				<h2>Field lessons on the James River</h2>
 				<p>
-					<span class="drop-cap">T</span>he class course work will be presented in several formats. First, there will be ample opportunity for primary experiential education. Students will be tasked with periodic goals to accomplish over the course of the journey. Second, will be presentations from faculty and topical experts&#x1F984; throughout the course. Third, peer to peer presentations based on topical subjects during the course. All work will be recorded in a daily journal. This journal will contain daily entries, natural history observations, lesson notes and data and personal reflections on the journey. 
+					<span class="drop-cap">T</span>he class course work will be presented in several formats. First, there will be ample opportunity for primary experiential education. This will include elements of community ecology, stream ecology, vascular plant identification and hydrology. Students will be tasked with periodic goals relating to these topics over the course of the journey. Second, will be presentations from faculty and topical experts&#x1F984; throughout the course. Third will be peer to peer presentations based on topical subjects during the course. 
 				</p>
-				<p>Student progress will be assessed by student participation, periodic journal reviews and a final written and practical test.
+				<p>
+					All work will be recorded in a bound journal. This journal will contain daily entries, natural history observations, lesson notes and data and personal reflections on the journey. Students should count on writing and sketching for approximately one hour per day. These journals will be provided to you as part of the course fee. Student progress will be assessed by student participation, periodic journal reviews and a final written and practical test.
+				</p>
+				<p>
+					Each student should undertake this experience with an open mind and a clear sense of purpose. This includes developing an expedition mindset to maximize the opportunities for personal growth. It will be up to each of us to do our part to generate and maintain an environment conducive to safety and learning. We must each do our part to treat our classmates as we wish to be treated.
 				</p> 
 			</div>
 			<div class="grid-container-3">
@@ -166,7 +175,7 @@
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14452301543_1337ad98b5_sized.jpg">
 				</div>
 				<div>
-					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P5291002.jpg">
+					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14245515998_9954e288c3_sizedN1.jpg">
 				</div>
 			</div>
 			<div class="grid-container-2">
@@ -179,7 +188,7 @@
 			</div>
 			<div class="fotj-sidebar">
 					<br><br><br><br>
-					Here's a great place to put some interesting info about some neat factoid. It could be anything. Anyting at all.
+					FACTOID: By January of 1608, only 38 of the 104 colonists left by Captain Newport the previous June remained alive.
 			</div>
 			<div class="fotj-content">
 				<h2>Trip Life</h2>
@@ -207,7 +216,7 @@
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P6050407.jpg">
 				</div>
 				<div>
-					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P6050421.jpg">
+					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/35271614405_eee63bda8d_o1200.jpg">
 				</div>
 			</div>
 			<div class="fotj-sidebar">
@@ -218,7 +227,7 @@
 				</p>
 			</div>
 			<div>
-					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P6020653.jpg" class="wide-image" width="100%" height="auto">
+					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/35231110296_b3c84d1549_o1200.jpg" class="wide-image" width="100%" height="auto">
 			</div>
 			<div class="photo-caption">
 					<h5>Approaching rapids aboard the batteau Slate River near Buckingham County, VA</h5>
@@ -243,27 +252,36 @@
 						<li>identify, compare, and discuss features of a biological system of interest in each of the regions of the river</li>
 						<li>recognize and understand many of the ways in which human habitation and development have impacted the James River, and vice versa</li>
 						<li>understand & explain connections between the river and the land which surrounds it</li>
-						<li>learn, use, and demonstrate proficiency in expedition skills, management, and logistics as it relates to this experience</li>
+						<li>understand expedition goal setting</li>
+						<li>understand logistical, gear, food and field support considerations for expeditions of this nature</li>
+						<li>identify risk management concerns and how to address them</li>
+						<li>understand the elements of group management in the back country and proper expedition behavior and leadership</li>
 					</ul>
 				</p>
 				<div class="wave-break">
 				</div>
-				<h2>Expectations</h2>
+				<p>
+					If you have any questions, please contact Daniel Carr at <a href="mailto:carrdf@vcu.edu">carrdf@vcu.edu</a> or Katie Schmidt at <a href="mailto:schmidtkv@vcu.edu">schmidtkv@vcu.edu</a>. To apply, please complete the online survey no later than March 29, 2019.
+				</p>
+				<div class="apply-button">
+					<a href="https://docs.google.com/forms/d/1mhXoQ_UIpjR-OgzuI3P_LXHTaoHJ2E08RAH8uFrj4L8/"><button class=apply-now>Apply now</button></a>
+				</div>
+				<!-- <h2>Expectations</h2>
 				<p>
 					<h3>Expedition Mindset:</h3> Each student should undertake this experience with an open mind and a clear sense of purpose. This includes developing an expedition mindset to maximize the opportunity. It will be up to each of us to do our part to generate and maintain an environment conducive to safety and learning. We must each do our part to treat our classmates as we wish to be treated.
 				</p>
 				<p>
 					<h3>Writing:</h3> We will be writing and sketching much of our course material by hand in bound journals. These journals will be provided to you as part of the course fee. Students should count on writing and sketching for approximately one hour per day.
-				</p>
+				</p> -->
 				<!-- <p>
 					<h3>Honor Code:</h3> Giving or receiving unauthorized assistance on tests or any other graded activities, as well as plagiarism, are violations of the University's Honor Code and will result in failure and a referral to the Student Honor Court. Also, students who observe cheating or any violation of the Honor Code have a responsibility to follow the procedures detailed in the Virginia Commonwealth University Student Handbook.
 				</p> -->
 				<!-- <p>
 					Participants will be held to the <a href="https://conduct.students.vcu.edu/student-code-of-conduct/">VCU Student Code of Conduct</a> at all times. This document and other relevant information can be found at the following link. Please pay particular attention to the section regarding conduct off-campus.
 				</p> -->
-				<p>
+				<!-- <p>
 					<h3>Required Readings:</h3> TBD. Students will be given a course pack with required readings, articles, etc.
-				</p>
+				</p> -->
 				<!-- <div class="wave-break">
 				</div> -->
 				<!-- <h2>Assessment</h2> -->
@@ -331,8 +349,8 @@
 				<p>
 					This will consist of a final presentation on the final day of class, 6/18. These presentations will be synthetic evaluations of observations made in the field. The topics should relate to course subject material. Topics will be evaluated and approved before we leave the Rice Rivers Center. These will be done in groups of 2.
 				</p> -->
-				<div class="wave-break">
-				</div>
+				<!-- <div class="wave-break">
+				</div> -->
 			</div>	
 			</div>
 		</div>
