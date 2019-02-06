@@ -178,7 +178,7 @@
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/14245515998_9954e288c3_sizedN1.jpg">
 				</div>
 			</div>
-			<div class="grid-container-2">
+			<div class="grid-container-2-fix">
 				<div>
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P5291174.jpg">
 				</div>
