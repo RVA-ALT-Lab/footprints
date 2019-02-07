@@ -230,7 +230,7 @@
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/35231110296_b3c84d1549_o1200.jpg" class="wide-image" width="100%" height="auto">
 			</div>
 			<div class="photo-caption">
-					<h5>Approaching rapids aboard the batteau Slate River near Buckingham County, VA</h5>
+					<h5>Running the rapids in Higginbothams Falls aboard the batteau 'Slate River' near Appomattox County, VA</h5>
 			</div>
 			<div class="fotj-sidebar">
 				<div class="fotj-quote">
