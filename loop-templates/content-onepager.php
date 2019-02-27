@@ -42,6 +42,7 @@
 				</div>
 				<div class="deadline-date">
 					Application deadline is March 29th, 2019
+					(The trip is from May 20th to June 7th)
 				</div>
 			</div>
 			<div class="fotj-content">
@@ -84,7 +85,7 @@
 					<h5>James River at Scottsville looking at Horseshoe Bend</h5>
 				</div>
 				<p>
-					The 2019 Footprints on the James Expedition will travel for 19 days, covering 185 river miles. The journey begins at the Falls of the James in downtown Richmond and proceeds by kayak downriver through the Tidewater to the colonial capital at Jamestown Island. The class then travels to the foothills of the Blue Ridge mountains &#x1F304; and returns to the river at Lynchburg. From Percival’s Island in downtown Lynchburg, the class travels through the Piedmont by canoe and batteau<sup>1</sup>, retracing the historic trade routes of the late eighteenth century for the remainder of the class, finishing our journey near the dams above Richmond.
+					The 2019 Footprints on the James Expedition will travel for 19 days (May 20th to June 7th), covering 185 river miles. The journey begins at the Falls of the James in downtown Richmond and proceeds by kayak downriver through the Tidewater to the colonial capital at Jamestown Island. The class then travels to the foothills of the Blue Ridge mountains &#x1F304; and returns to the river at Lynchburg. From Percival’s Island in downtown Lynchburg, the class travels through the Piedmont by canoe and batteau<sup>1</sup>, retracing the historic trade routes of the late eighteenth century for the remainder of the class, finishing our journey near the dams above Richmond.
 				</p>
 			</div>
 			<div class="fotj-sidebar">
@@ -193,7 +194,7 @@
 			<div class="fotj-content">
 				<h2>Trip Life</h2>
 				<p>
-					<span class="drop-cap">A</span>ll participants will be living, travelling, and learning in variety of camping locations in close proximity to the James River and its watershed. From the first night out &#x1F30C;, everyone will be living out of a backpacking tent and eating meals prepared by our classmates. Most of the nights will be spent in a different place from the evening before. While there will be a night back in Richmond, we will spend nearly three weeks in the field. No experience is expected or necessary to apply for this experience. All we ask is for an open mind and willingness to challenge yourself to live and learn in new ways.
+					<span class="drop-cap">A</span>ll participants will be living, travelling, and learning in variety of camping locations in close proximity to the James River and its watershed. From the first night out &#x1F30C;, everyone will be living out of a backpacking tent and eating meals prepared by our classmates. Most of the nights will be spent in a different place from the evening before. While there will be a night back in Richmond, we will spend nearly three weeks in the field. No experience is expected or necessary to apply for this experience. All we ask for is an open mind and willingness to challenge yourself to live and learn in new ways.
 				</p>
 				<div>
 					<img src="<?php echo get_stylesheet_directory_uri();?>/imgs/P5311511.jpg" width="100%" style="">
